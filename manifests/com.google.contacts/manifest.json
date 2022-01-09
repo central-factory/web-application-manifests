@@ -1,0 +1,38 @@
+{
+    "id": "com.google.contacts",
+    "name": "Contacts",
+    "description": "Google Contacts is your online address book",
+    "startUrl": "https://contacts.google.com",
+    "themeColor": "#4285f4",
+    "icons": [
+      {
+        "src": "assets/icons/mdi/contacts.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://contacts.google.com",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/contacts.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      "productivity",
+      "utilities"
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.alphabet",
+        "name": "Alphabet"
+      }
+    }
+  }
+  
