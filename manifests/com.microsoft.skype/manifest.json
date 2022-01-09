@@ -1,0 +1,38 @@
+{
+    "id": "com.microsoft.skype",
+    "name": "Skype",
+    "description": "Preserving the connections that matter most with Skype. As our world has faced unprecedented challenges over the past 18 months, taking time to seek out deep human connection has never been more important. And thanks to Skype, it’s also never been easier. Here’s how people across the globe used technology to stay connected through it all.",
+    "startUrl": "https://web.skype.com/",
+    "themeColor": "#00AFF0",
+    "categories": [
+      "productivity",
+      "social"
+    ],
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/skype.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://web.skype.com/",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/skype.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.microsoft",
+        "name": "Microsoft"
+      }
+    }
+  }
+  
