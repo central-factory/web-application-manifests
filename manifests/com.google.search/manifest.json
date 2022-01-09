@@ -21,7 +21,18 @@
       "url": "https://google.com",
       "icons": [
         {
-          "src": "assets/icons/simple-icons/google.svg",
+          "src": "assets/icons/mdi/magnify.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Images",
+      "url": "https://google.com/imghp",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/image-search.svg",
           "sizes": "512x512",
           "type": "image/svg+xml"
         }

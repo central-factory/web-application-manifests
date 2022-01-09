@@ -1,0 +1,93 @@
+{
+    "id": "com.google.photos",
+    "name": "Google Photos",
+    "description": "Google Photos is the home for all your photos and videos, automatically organized and easy to share.",
+    "startUrl": "https://photos.google.com/",
+    "themeColor": "#4285F4",
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/googlephotos.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Photos",
+        "url": "https://photos.google.com",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/googlephotos.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "name": "Explore",
+        "url": "https://photos.google.com/explore",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/compass.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "name": "Sharing",
+        "url": "https://photos.google.com/sharing",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/account-supervisor.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "name": "Photo books",
+        "url": "https://photos.google.com/photobooks",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/book-open-page-variant.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "name": "Favourites",
+        "url": "https://photos.google.com/search/_m8_Favourites",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/star.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "name": "Albums",
+        "url": "https://photos.google.com/albums",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/library-shelves.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      "productivity",
+      "utilities"
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.alphabet",
+        "name": "Alphabet"
+      }
+    }
+  }
+  
