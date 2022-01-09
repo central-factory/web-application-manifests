@@ -1,0 +1,50 @@
+{
+  "id": "com.nintendo.my",
+  "name": "Nintendo",
+  "description": "My Nintendo makes playing games and interacting with Nintendo even more fun. You can earn points and redeem them to get rewards like in-game content",
+  "startUrl": "https://my.nintendo.com/",
+  "categories": [
+    "news",
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/nintendoswitch.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "My Nintendo",
+      "url": "https://my.nintendo.com/",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/nintendoswitch.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.nintendo",
+      "name": "Nintendo"
+    },
+    "renderingType": "webview",
+    "supportsBrowser": false,
+    "internal": false,
+    "permissions": [],
+    "defaultShortcut": "My Nintendo",
+    "sidebarShortcuts": [
+      "My Nintendo"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#e60012"
+      }
+    ]
+  }
+}

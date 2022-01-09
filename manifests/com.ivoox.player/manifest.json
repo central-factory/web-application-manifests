@@ -1,0 +1,103 @@
+{
+  "id": "com.ivoox.player",
+  "name": "iVoox",
+  "description": "\n      With Podcast & Radio iVoox you can listen, share and download podcasts, radio shows and much more for free, when you want, where you want.\n      Courses, conferences, classes, lectures, audio books, children’s stories, audio guides, stand up comedy, stories, music and concerts, poems, biographies and even meditation sessions.\n    ",
+  "startUrl": "https://ivoox.com",
+  "icons": [
+    {
+      "src": "assets/icons/mdi/podcast.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://ivoox.com",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/podcast.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Explore",
+      "url": "https://www.ivoox.com/audios_sa_f_1.html",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/compass.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "My Subscriptions",
+      "url": "https://www.ivoox.com/gestionar-suscripciones_je_1.html?order=date",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/eye.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Play Later",
+      "url": "https://www.ivoox.com/mis-audios_hn.html",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/bookmark.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Favorites",
+      "url": "https://www.ivoox.com/audios-que-me-gustan_hc_recomendados_1.html",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/heart.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "My Radios",
+      "url": "https://www.ivoox.com/radios-que-me-gustan_hc_recomendados_1.html",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/music-box-multiple.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "entertainment"
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.ivoox",
+      "name": "iVoox Podcast y Radio"
+    },
+    "permissions": [],
+    "renderingType": "webview",
+    "internal": false,
+    "defaultShortcut": "Portal",
+    "sidebarShortcuts": [
+      "Portal"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#f47721"
+      }
+    ]
+  }
+}

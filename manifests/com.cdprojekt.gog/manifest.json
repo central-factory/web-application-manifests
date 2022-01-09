@@ -1,0 +1,50 @@
+{
+  "id": "com.cdprojekt.gog",
+  "name": "GOG",
+  "description": "GOG.com is a digital distribution platform – an online store with a curated selection of games, an optional gaming client giving you freedom of choice",
+  "startUrl": "https://www.gog.com",
+  "categories": [
+    "news",
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/mdi/gog.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://www.gog.com",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/gog.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.cdprojekt",
+      "name": "CD Projekt"
+    },
+    "renderingType": "webview",
+    "supportsBrowser": false,
+    "internal": false,
+    "permissions": [],
+    "defaultShortcut": "Portal",
+    "sidebarShortcuts": [
+      "Portal"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#A8DD36"
+      }
+    ]
+  }
+}

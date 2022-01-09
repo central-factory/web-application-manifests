@@ -1,0 +1,60 @@
+{
+  "id": "com.google.calendar",
+  "name": "Google Calendar",
+  "description": "The Google Calendar app helps you spend less time managing",
+  "startUrl": "https://calendar.google.com",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/googlecalendar.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Agenda",
+      "url": "https://calendar.google.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/googlecalendar.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Create Event",
+      "url": "https://calendar.google.com",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/calendar-edit.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "productivity",
+    "utilities"
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.alphabet",
+      "name": "Alphabet"
+    },
+    "permissions": [],
+    "renderingType": "webview",
+    "internal": false,
+    "defaultShortcut": "Agenda",
+    "sidebarShortcuts": [
+      "Agenda"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#4285f4"
+      }
+    ]
+  }
+}

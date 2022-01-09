@@ -1,0 +1,81 @@
+{
+  "id": "com.spotify.player",
+  "name": "Spotify",
+  "description": "\n      Spotify is all the music you'll ever need.\n\n      Stream free albums and hits, find a song, discover music, and download songs and podcasts with the Spotify free streaming and music player app.\n\n      Free streaming, music search and hits library – Spotify is all that and much more.\n\n      Play songs, sync music, discover music and free albums with Spotify, your go-to music downloader.\n    ",
+  "startUrl": "https://open.spotify.com",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/spotify.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Player",
+      "url": "https://open.spotify.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/spotify.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Search",
+      "url": "https://open.spotify.com/search",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/magnify.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Library",
+      "url": "https://open.spotify.com/collection/playlists",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/music-box-multiple.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Liked",
+      "url": "https://open.spotify.com/collection/tracks",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/heart.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "entertainment"
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.spotify",
+      "name": "Spotify"
+    },
+    "permissions": [],
+    "renderingType": "webview",
+    "internal": false,
+    "defaultShortcut": "Player",
+    "sidebarShortcuts": [
+      "Player"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#1db954"
+      }
+    ]
+  }
+}

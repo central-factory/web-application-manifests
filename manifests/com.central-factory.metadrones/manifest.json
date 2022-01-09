@@ -1,0 +1,49 @@
+{
+  "id": "com.central-factory.metadrones",
+  "name": "Metadrones",
+  "description": "Game demo on how to integrate with the metaverse",
+  "startUrl": "https://aitorllamas.com/metaverse/apps/metadrones/remoteEntry.js",
+  "icons": [
+    {
+      "src": "assets/icons/mdi/drone.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Metadrones",
+      "url": "https://aitorllamas.com/metaverse/apps/metadrones/remoteEntry.js",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/drone.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "games"
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.central-factory",
+      "name": "Central Factory"
+    },
+    "permissions": [],
+    "renderingType": "webpack-module-federation",
+    "supportsBrowser": true,
+    "internal": false,
+    "defaultShortcut": "Metadrones",
+    "sidebarShortcuts": [
+      "Metadrones"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#d1d36f"
+      }
+    ]
+  }
+}

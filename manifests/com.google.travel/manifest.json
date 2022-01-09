@@ -1,0 +1,50 @@
+{
+  "id": "com.google.travel",
+  "name": "Google Travel",
+  "description": "Find the best flights fast, track prices, and book with confidence.",
+  "startUrl": "https://travel.google.com",
+  "icons": [
+    {
+      "src": "assets/icons/mdi/bag-checked.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Travel",
+      "url": "https://travel.google.com",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/bag-checked.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "finances",
+    "travel"
+  ],
+  "additionalProperties": {
+    "originalManifest": "https://www.google.com/_/TravelFrontendUi/manifest.json",
+    "author": {
+      "id": "com.alphabet",
+      "name": "Alphabet"
+    },
+    "permissions": [],
+    "renderingType": "webview",
+    "internal": false,
+    "defaultShortcut": "Travel",
+    "sidebarShortcuts": [
+      "Travel"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#4285f4"
+      }
+    ]
+  }
+}

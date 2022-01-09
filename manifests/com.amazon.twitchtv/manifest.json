@@ -1,0 +1,71 @@
+{
+  "id": "com.amazon.twitchtv",
+  "name": "Twitch",
+  "description": "Twitch is an interactive livestreaming service for content spanning gaming, entertainment, sports, music, and more.",
+  "startUrl": "https://twitch.tv/",
+  "categories": [
+    "entertainment"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/twitch.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://twitch.tv/",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/twitch.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Following",
+      "url": "https://twitch.tv/directory/following",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/heart.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Explore",
+      "url": "https://twitch.tv/directory",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/compass.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.amazon",
+      "name": "Amazon"
+    },
+    "renderingType": "webview",
+    "supportsBrowser": false,
+    "internal": false,
+    "permissions": [],
+    "defaultShortcut": "Portal",
+    "sidebarShortcuts": [
+      "Portal"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#9146ff"
+      }
+    ]
+  }
+}

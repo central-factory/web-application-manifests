@@ -1,0 +1,71 @@
+{
+  "id": "com.olympics.olympics",
+  "name": "Olympics",
+  "description": "Official website of the Olympic Games. Access breaking Tokyo 2020 news, plus records and video highlights from the best historic moments in global sport.",
+  "startUrl": "https://olympics.com",
+  "categories": [
+    "sport"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/mdi/torch.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://olympics.com",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/torch.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Sports",
+      "url": "https://olympics.com/sports",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/basketball.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Results",
+      "url": "https://olympics.com/olympic-games/olympic-results",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/medal.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.olympics",
+      "name": "Olympics"
+    },
+    "renderingType": "webview",
+    "supportsBrowser": false,
+    "internal": false,
+    "permissions": [],
+    "defaultShortcut": "Portal",
+    "sidebarShortcuts": [
+      "Portal"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#0078D0"
+      }
+    ]
+  }
+}

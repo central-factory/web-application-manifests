@@ -1,0 +1,50 @@
+{
+  "id": "com.zara.shopping",
+  "name": "Zara",
+  "description": "Latest trends in clothing for women, men & kids at ZARA",
+  "startUrl": "https://zara.com/",
+  "categories": [
+    "shopping",
+    "finance"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/mdi/hanger.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Store",
+      "url": "https://zara.com",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/hanger.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.zara",
+      "name": "Zara"
+    },
+    "renderingType": "webview",
+    "supportsBrowser": false,
+    "internal": false,
+    "permissions": [],
+    "defaultShortcut": "Store",
+    "sidebarShortcuts": [
+      "Store"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#000000"
+      }
+    ]
+  }
+}

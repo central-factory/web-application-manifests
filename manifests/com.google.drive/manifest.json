@@ -1,0 +1,49 @@
+{
+  "id": "com.google.drive",
+  "name": "Google Drive",
+  "description": "Create and share your work online and access your documents from anywhere. Manage documents, spreadsheets, presentations, surveys...",
+  "startUrl": "https://drive.google.com",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/googledrive.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": [
+    "productivity",
+    "utilities"
+  ],
+  "shortcuts": [
+    {
+      "name": "Search",
+      "url": "https://drive.google.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/googledrive.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.alphabet",
+      "name": "Alphabet"
+    },
+    "permissions": [],
+    "renderingType": "webview",
+    "internal": false,
+    "defaultShortcut": "Search",
+    "sidebarShortcuts": [
+      "Search"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#4285f4"
+      }
+    ]
+  }
+}

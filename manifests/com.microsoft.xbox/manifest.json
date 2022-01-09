@@ -1,0 +1,48 @@
+{
+  "id": "com.microsoft.xbox",
+  "name": "Xbox Cloud Gaming",
+  "description": "Enjoy the console games you love on the devices you already have with Xbox Game Pass Ultimate and a compatible controller. You can play using an Xbox controller, Sony DualShock 4, Razer Kishi, and more.",
+  "startUrl": "https://xbox.com/play",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/xbox.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Player",
+      "url": "https://xbox.com/play",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/microsoft-xbox-controller.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "games"
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.microsoft",
+      "name": "Microsoft"
+    },
+    "permissions": [],
+    "renderingType": "webview",
+    "internal": false,
+    "defaultShortcut": "Player",
+    "sidebarShortcuts": [
+      "Player"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#52b043"
+      }
+    ]
+  }
+}

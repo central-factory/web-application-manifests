@@ -1,0 +1,51 @@
+{
+  "id": "com.uber.eats",
+  "name": "Uber Eats",
+  "description": "Enjoy your local restaurant favorites from the comfort of your own home. The food you want, when you want it. ",
+  "startUrl": "https://ubereats.com/",
+  "categories": [
+    "food",
+    "shopping",
+    "finance"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/ubereats.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Order",
+      "url": "https://ubereats.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/ubereats.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.uber",
+      "name": "Uber"
+    },
+    "renderingType": "webview",
+    "supportsBrowser": false,
+    "internal": false,
+    "permissions": [],
+    "defaultShortcut": "Order",
+    "sidebarShortcuts": [
+      "Order"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#09091a"
+      }
+    ]
+  }
+}

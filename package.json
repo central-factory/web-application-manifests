@@ -1,0 +1,26 @@
+{
+  "name": "web-application-manifests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts/build-index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node scripts/build-index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/central-factory/web-application-manifests.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/central-factory/web-application-manifests/issues"
+  },
+  "homepage": "https://github.com/central-factory/web-application-manifests#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^9.0.13"
+  }
+}

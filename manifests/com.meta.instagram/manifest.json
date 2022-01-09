@@ -1,0 +1,48 @@
+{
+  "id": "com.meta.instagram",
+  "name": "Instagram",
+  "description": "A simple, fun & creative way to capture, edit & share photos, videos & messages with friends & family.",
+  "startUrl": "https://instagram.com",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/instagram.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://instagram.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/instagram.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "social"
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.meta",
+      "name": "Meta"
+    },
+    "permissions": [],
+    "renderingType": "webview",
+    "internal": false,
+    "defaultShortcut": "Portal",
+    "sidebarShortcuts": [
+      "Portal"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#405de6"
+      }
+    ]
+  }
+}

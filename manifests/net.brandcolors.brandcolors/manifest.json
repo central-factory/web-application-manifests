@@ -1,0 +1,50 @@
+{
+  "id": "net.brandcolors.brandcolors",
+  "name": "BrandColors",
+  "description": "The biggest collection of official brand color codes around. Curated by @brandcolors and friends.",
+  "startUrl": "https://brandcolors.net/",
+  "categories": [
+    "personalization",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/mdi/palette.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://brandcolors.net/",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/palette.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "net.brandcolors",
+      "name": "BrandColors"
+    },
+    "renderingType": "webview",
+    "supportsBrowser": false,
+    "internal": false,
+    "permissions": [],
+    "defaultShortcut": "Portal",
+    "sidebarShortcuts": [
+      "PortalPortal"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#E91F63"
+      }
+    ]
+  }
+}

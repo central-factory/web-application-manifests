@@ -1,0 +1,50 @@
+{
+  "id": "com.zalando.shopping",
+  "name": "Zalando",
+  "description": "Descubre las últimas tendencias en ropa, calzado y complementos para mujer, hombre y niño en Zalando.",
+  "startUrl": "https://zalando.com/",
+  "categories": [
+    "shopping",
+    "finance"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/zalando.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Store",
+      "url": "https://zalando.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/zalando.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.zalando",
+      "name": "Zalando"
+    },
+    "renderingType": "webview",
+    "supportsBrowser": false,
+    "internal": false,
+    "permissions": [],
+    "defaultShortcut": "Store",
+    "sidebarShortcuts": [
+      "Store"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#F96902"
+      }
+    ]
+  }
+}

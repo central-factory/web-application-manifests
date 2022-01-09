@@ -1,0 +1,49 @@
+{
+  "id": "com.airbnb.airbnb",
+  "name": "Airbnb",
+  "description": "Find vacation rentals, cabins, beach houses, unique homes and experiences around the world - all made possible by hosts on Airbnb.",
+  "startUrl": "https://www.airbnb.com",
+  "categories": [
+    "travel"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/airbnb.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://www.airbnb.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/airbnb.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.airbnb",
+      "name": "Airbnb"
+    },
+    "renderingType": "webview",
+    "supportsBrowser": false,
+    "internal": false,
+    "permissions": [],
+    "defaultShortcut": "Portal",
+    "sidebarShortcuts": [
+      "Portal"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#F8385D"
+      }
+    ]
+  }
+}

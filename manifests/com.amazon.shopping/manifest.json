@@ -1,0 +1,48 @@
+{
+  "id": "com.amazon.shopping",
+  "name": "Amazon Shopping",
+  "description": "Free shipping on millions of items. Get the best of Shopping and Entertainment with Prime.",
+  "startUrl": "https://amazon.es",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/amazon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Shopping",
+      "url": "https://amazon.es",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/basket.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.amazon",
+      "name": "Amazon"
+    },
+    "permissions": [],
+    "renderingType": "webview",
+    "internal": false,
+    "defaultShortcut": "Shopping",
+    "sidebarShortcuts": [
+      "Shopping"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#ff9900"
+      }
+    ]
+  }
+}

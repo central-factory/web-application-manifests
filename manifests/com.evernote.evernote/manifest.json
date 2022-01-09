@@ -1,0 +1,49 @@
+{
+  "id": "com.evernote.evernote",
+  "name": "Evernote",
+  "description": "Evernote is a powerful tool that can help executives, entrepreneurs and creative people capture and arrange their ideas. All you have to do is use it. — Forbes.",
+  "startUrl": "https://evernote.com/intl/es/",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/evernote.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://evernote.com/intl/es/",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/evernote.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "productivity",
+    "utilities"
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.evernote",
+      "name": "Evernote"
+    },
+    "permissions": [],
+    "renderingType": "webview",
+    "internal": false,
+    "defaultShortcut": "Portal",
+    "sidebarShortcuts": [
+      "Portal"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#2dbe60"
+      }
+    ]
+  }
+}

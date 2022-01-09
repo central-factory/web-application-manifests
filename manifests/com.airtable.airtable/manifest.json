@@ -1,0 +1,49 @@
+{
+  "id": "com.airtable.airtable",
+  "name": "Airtable",
+  "description": "Connect everything. Achieve anything.\n    Accelerate work and unlock potential with powerful apps that connect your data, workflows and teams.",
+  "startUrl": "https://www.airtable.com",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/airtable.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://www.airtable.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/airtable.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.airtable",
+      "name": "Airtable"
+    },
+    "renderingType": "webview",
+    "supportsBrowser": false,
+    "internal": false,
+    "permissions": [],
+    "defaultShortcut": "Portal",
+    "sidebarShortcuts": [
+      "Portal"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#FCB400"
+      }
+    ]
+  }
+}

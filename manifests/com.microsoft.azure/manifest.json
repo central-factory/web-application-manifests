@@ -1,0 +1,60 @@
+{
+  "id": "com.microsoft.azure",
+  "name": "Azure",
+  "description": "Plan smarter, collaborate better, and ship faster with Azure DevOps Services, formerly known as Visual Studio Team Services. Get agile tools, CI/CD...",
+  "startUrl": "https://dev.azure.com",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/azuredevops.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://www.portal.azure.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/azureartifacts.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "DevOps",
+      "url": "https://www.dev.azure.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/azuredevops.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.microsoft",
+      "name": "Microsoft"
+    },
+    "renderingType": "webview",
+    "supportsBrowser": false,
+    "internal": false,
+    "permissions": [],
+    "defaultShortcut": "DevOps",
+    "sidebarShortcuts": [
+      "DevOps"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#0074D0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "com.google.youtube",
+  "name": "Youtube",
+  "description": "\n      See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n    ",
+  "startUrl": "https://youtube.com",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/youtube.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://youtube.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/youtube.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Subscriptions",
+      "url": "https://www.youtube.com/feed/subscriptions",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/youtube-tv.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Library",
+      "url": "https://www.youtube.com/feed/library",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/filmstrip-box-multiple.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "url": "https://www.youtube.com/feed/history",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/history.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Watch Later",
+      "url": "https://www.youtube.com/playlist?list=WL",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/bookmark.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "entertainment"
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.aplhabet",
+      "name": "Alphabet"
+    },
+    "permissions": [],
+    "renderingType": "webview",
+    "internal": false,
+    "defaultShortcut": "Portal",
+    "sidebarShortcuts": [
+      "Portal"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#ea4335"
+      }
+    ]
+  }
+}

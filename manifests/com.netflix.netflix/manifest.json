@@ -1,0 +1,70 @@
+{
+  "id": "com.netflix.netflix",
+  "name": "Netflix",
+  "description": "\n      Looking for the most talked-about TV programs and films from the around the world? They’re all on Netflix.\n\n      We’ve got award-winning series, films, documentaries and stand-up specials.\n    ",
+  "startUrl": "https://netflix.com",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/netflix.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://netflix.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/netflix.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "My List",
+      "url": "https://netflix.com/browse/my-list",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/filmstrip-box-multiple.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Latest",
+      "url": "https://netflix.com/latest",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/new-box.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "entertainment"
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.netflix",
+      "name": "Netflix, Inc"
+    },
+    "permissions": [],
+    "renderingType": "webview",
+    "internal": false,
+    "defaultShortcut": "Portal",
+    "sidebarShortcuts": [
+      "Portal"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#e50914"
+      }
+    ]
+  }
+}

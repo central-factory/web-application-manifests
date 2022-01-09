@@ -1,0 +1,49 @@
+{
+  "id": "com.amazon.aws",
+  "name": "Amazon Web Services",
+  "description": "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.",
+  "startUrl": "https://aws.amazon.com",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/amazonaws.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://aws.amazon.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/amazonaws.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.amazon",
+      "name": "Amazon"
+    },
+    "renderingType": "webview",
+    "supportsBrowser": false,
+    "internal": false,
+    "permissions": [],
+    "defaultShortcut": "Portal",
+    "sidebarShortcuts": [
+      "Portal"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#ff9900"
+      }
+    ]
+  }
+}

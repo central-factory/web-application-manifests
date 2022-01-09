@@ -1,0 +1,49 @@
+{
+  "id": "com.microsoft.office",
+  "name": "Office",
+  "description": "Collaborate for free with online versions of Microsoft Word, PowerPoint, Excel, and OneNote. Save documents, spreadsheets, and presentations online",
+  "startUrl": "https://www.office.com",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/microsoftoffice.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://www.office.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/microsoftoffice.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.microsoft",
+      "name": "Microsoft"
+    },
+    "renderingType": "webview",
+    "supportsBrowser": false,
+    "internal": false,
+    "permissions": [],
+    "defaultShortcut": "Portal",
+    "sidebarShortcuts": [
+      "Portal"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#ea3e23"
+      }
+    ]
+  }
+}

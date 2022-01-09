@@ -1,0 +1,49 @@
+{
+  "id": "com.google.search",
+  "name": "Google Search",
+  "description": "Search the world's information, including webpages, images, videos and more.",
+  "startUrl": "https://google.com",
+  "categories": [
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/google.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Search",
+      "url": "https://google.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/google.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.alphabet",
+      "name": "Alphabet"
+    },
+    "permissions": [],
+    "renderingType": "webview",
+    "internal": false,
+    "defaultShortcut": "Search",
+    "sidebarShortcuts": [
+      "Search"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#4285f4"
+      }
+    ]
+  }
+}

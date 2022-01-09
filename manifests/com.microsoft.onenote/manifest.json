@@ -1,0 +1,49 @@
+{
+  "id": "com.microsoft.onenote",
+  "name": "Onenote",
+  "description": "Capture thoughts, ideas, and to-dos and sync them to all your devices · Store and share your notebooks on OneDrive with your free Microsoft account",
+  "startUrl": "https://www.onenote.com",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/microsoftonenote.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://www.onenote.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/microsoftonenote.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.microsoft",
+      "name": "Microsoft"
+    },
+    "renderingType": "webview",
+    "supportsBrowser": false,
+    "internal": false,
+    "permissions": [],
+    "defaultShortcut": "Portal",
+    "sidebarShortcuts": [
+      "Portal"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#733781"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "com.google.mail",
+  "name": "Gmail",
+  "description": "Gmail is email that's intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.",
+  "startUrl": "https://mail.google.com",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/gmail.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Inbox",
+      "url": "https://mail.google.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/gmail.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "productivity",
+    "utilities"
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.alphabet",
+      "name": "Alphabet"
+    },
+    "permissions": [],
+    "renderingType": "webview",
+    "internal": false,
+    "defaultShortcut": "Inbox",
+    "sidebarShortcuts": [
+      "Inbox"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#ea4335"
+      }
+    ]
+  }
+}

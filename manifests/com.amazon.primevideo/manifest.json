@@ -1,0 +1,70 @@
+{
+  "id": "com.amazon.primevideo",
+  "name": "Prime Video",
+  "description": "\n      Watch movies, TV, and sports, including Amazon Originals like The Boys, The Marvelous Mrs. Maisel, and Tom Clancy’s Jack Ryan as well as recommendations just for you.\n\n      App features:\n      • Download videos to watch offline.\n      • Rent or buy new-release movies and popular TV shows (availability varies by market).\n      • Cast from your phone or tablet to the big screen with Chromecast and Fire TV.\n      • Multi-user profiles allow creating personalized entertainment experiences.\n      • Go behind the scenes of movies and TV shows with exclusive X-Ray access, powered by IMDb (availability varies by market).\n    ",
+  "startUrl": "https://primevideo.com",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/primevideo.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://primevideo.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/primevideo.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "My Stuff",
+      "url": "https://primevideo.com/mystuff",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/filmstrip-box-multiple.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Channels",
+      "url": "https://primevideo.com/storefront/channels",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/youtube-tv.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "entertainment"
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.amazon",
+      "name": "Amazon"
+    },
+    "permissions": [],
+    "renderingType": "webview",
+    "internal": false,
+    "defaultShortcut": "Portal",
+    "sidebarShortcuts": [
+      "Portal"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#146eb4"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "com.meta.whatsapp",
+  "name": "WhatsApp",
+  "description": "Messaging Application",
+  "startUrl": "https://web.whatsapp.com",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/whatsapp.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://web.whatsapp.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/whatsapp.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "social"
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.meta",
+      "name": "Meta"
+    },
+    "permissions": [],
+    "renderingType": "webview",
+    "internal": false,
+    "defaultShortcut": "Portal",
+    "sidebarShortcuts": [
+      "Portal"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#128c7e"
+      }
+    ]
+  }
+}

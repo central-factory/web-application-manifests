@@ -1,0 +1,51 @@
+{
+  "id": "com.wikipedia.wikipedia",
+  "name": "Wikipedia",
+  "description": "\n      Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.\n    ",
+  "startUrl": "https://wikipedia.com/",
+  "categories": [
+    "news",
+    "entertainment",
+    "magazines"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/wikipedia.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://wikipedia.com/",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/wikipedia.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.wikipedia",
+      "name": "Wikipedia"
+    },
+    "renderingType": "webview",
+    "supportsBrowser": false,
+    "internal": false,
+    "permissions": [],
+    "defaultShortcut": "Portal",
+    "sidebarShortcuts": [
+      "Portal"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#636466"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "com.burgerking.burgerking",
+  "name": "Burger King",
+  "description": "Order your favourite takeaway from restaurants all over Spain on the app you love. Freshly cooked from your favourite restaurants directly to your door. Order today. More than 15k restaurants. Exclusive Offers. Pizza, sushi, thai & more. Contactless Delivery.",
+  "startUrl": "https://burgerking.es/",
+  "categories": [
+    "food",
+    "shopping",
+    "finance"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/burgerking.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Order",
+      "url": "https://burgerking.es/",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/burgerking.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.burgerking",
+      "name": "Burger King"
+    },
+    "renderingType": "webview",
+    "supportsBrowser": false,
+    "internal": false,
+    "permissions": [],
+    "defaultShortcut": "Order",
+    "sidebarShortcuts": [
+      "Order"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#F96101"
+      }
+    ]
+  }
+}

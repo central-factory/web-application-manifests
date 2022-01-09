@@ -1,0 +1,50 @@
+{
+  "id": "com.ea.origin",
+  "name": "Origin",
+  "description": "Get great PC and Mac games on Origin. Play the latest RPGs, shooters, Sims games & more.",
+  "startUrl": "https://origin.com/",
+  "categories": [
+    "news",
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/origin.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://origin.com/",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/origin.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.ea",
+      "name": "EA Games"
+    },
+    "renderingType": "webview",
+    "supportsBrowser": false,
+    "internal": false,
+    "permissions": [],
+    "defaultShortcut": "Portal",
+    "sidebarShortcuts": [
+      "Portal"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#EB5722"
+      }
+    ]
+  }
+}

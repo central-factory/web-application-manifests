@@ -1,0 +1,50 @@
+{
+  "id": "com.bbva.wallet",
+  "name": "BBVA",
+  "description": "The latest banks and financial services company and industry news with expert analysis from the BBVA, Banco Bilbao Vizcaya Argentaria.",
+  "startUrl": "https://www.bbva.es",
+  "categories": [
+    "finances",
+    "shopping"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/mdi/bank.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://www.bbva.es",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/bank.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.bbva",
+      "name": "BBVA"
+    },
+    "renderingType": "webview",
+    "supportsBrowser": false,
+    "internal": false,
+    "permissions": [],
+    "defaultShortcut": "Portal",
+    "sidebarShortcuts": [
+      "Portal"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#072146"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "com.sony.psnow",
+  "name": "PS Now",
+  "description": "Discover all the PS2, PS3 and PS4 games available to stream or download on demand on PS4 from the PS Now library",
+  "startUrl": "https://playstation.com/ps-now",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/playstation.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Player",
+      "url": "https://playstation.com/ps-now",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/playstation.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "games"
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.sony",
+      "name": "Sony Interactive"
+    },
+    "permissions": [],
+    "renderingType": "webview",
+    "internal": false,
+    "defaultShortcut": "Player",
+    "sidebarShortcuts": [
+      "Player"
+    ],
+    "colors": [
+      {
+        "variation": "primary",
+        "color": "#00a4e8"
+      }
+    ]
+  }
+}
