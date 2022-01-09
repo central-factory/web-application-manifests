@@ -22,6 +22,50 @@
           "type": "image/svg+xml"
         }
       ]
+    },
+    {
+      "name": "Pull Requests",
+      "url": "https://github.com/pulls",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/git.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Issues",
+      "url": "https://github.com/issues",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/git.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Marketplace",
+      "url": "https://github.com/marketplace",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/shopping.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Explore",
+      "url": "https://github.com/marketplace",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/compass.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
     }
   ],
   "categories": [
