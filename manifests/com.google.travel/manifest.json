@@ -2,7 +2,7 @@
   "id": "com.google.travel",
   "name": "Google Travel",
   "description": "Find the best flights fast, track prices, and book with confidence.",
-  "startUrl": "https://travel.google.com",
+  "startUrl": "https://www.google.com/travel",
   "themeColor": "#4285f4",
   "icons": [
     {
@@ -14,10 +14,54 @@
   "shortcuts": [
     {
       "name": "Travel",
-      "url": "https://travel.google.com",
+      "url": "https://www.google.com/travel",
       "icons": [
         {
           "src": "assets/icons/mdi/bag-checked.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Explore",
+      "url": "https://www.google.com/travel/explore",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/compass.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Things to do",
+      "url": "https://www.google.com/travel/things-to-do",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/camera.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Flights",
+      "url": "https://www.google.com/travel/flights",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/airplane.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Things to do",
+      "url": "https://www.google.com/travel/hotels",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/bed.svg",
           "sizes": "512x512",
           "type": "image/svg+xml"
         }
