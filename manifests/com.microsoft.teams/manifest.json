@@ -1,0 +1,38 @@
+{
+    "id": "com.microsoft.teams",
+    "name": "Teams",
+    "description": "Microsoft Teams, the hub for team collaboration in Microsoft 365, integrates the people, content, and tools your team needs to be more engaged and effective...",
+    "startUrl": "https:/teams.microsoft.com",
+    "themeColor": "#6264A7",
+    "categories": [
+      "productivity",
+      "social"
+    ],
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/microsoftteams.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://teams.microsoft.com",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/microsoftteams.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.microsoft",
+        "name": "Microsoft"
+      }
+    }
+  }
+  
