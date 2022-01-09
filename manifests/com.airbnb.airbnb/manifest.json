@@ -3,6 +3,7 @@
   "name": "Airbnb",
   "description": "Find vacation rentals, cabins, beach houses, unique homes and experiences around the world - all made possible by hosts on Airbnb.",
   "startUrl": "https://www.airbnb.com",
+  "themeColor": "F8385D",
   "categories": [
     "travel"
   ],
@@ -30,20 +31,6 @@
     "author": {
       "id": "com.airbnb",
       "name": "Airbnb"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#F8385D"
-      }
-    ]
+    }
   }
 }
