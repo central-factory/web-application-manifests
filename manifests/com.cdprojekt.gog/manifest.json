@@ -3,6 +3,7 @@
   "name": "GOG",
   "description": "GOG.com is a digital distribution platform – an online store with a curated selection of games, an optional gaming client giving you freedom of choice",
   "startUrl": "https://www.gog.com",
+  "themeColor": "#A8DD36",
   "categories": [
     "news",
     "games"
@@ -31,20 +32,6 @@
     "author": {
       "id": "com.cdprojekt",
       "name": "CD Projekt"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#A8DD36"
-      }
-    ]
+    }
   }
 }

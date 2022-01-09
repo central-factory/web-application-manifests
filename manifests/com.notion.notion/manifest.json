@@ -3,6 +3,7 @@
   "name": "Notion",
   "description": "Too many tools? Too much chaos? With Notion, all your work is in one place. Notion is the best way to collaborate. For desktop and mobile. Infinite flexibility. Hassle-free wiki software. Better shared docs. All your projects tracked. Types: Personal Free, Personal Pro, Team.",
   "startUrl": "https://www.notion.so/",
+  "themeColor": "#000000",
   "icons": [
     {
       "src": "assets/icons/simple-icons/notion.svg",
@@ -31,19 +32,6 @@
     "author": {
       "id": "com.notion",
       "name": "Notion"
-    },
-    "permissions": [],
-    "renderingType": "webview",
-    "internal": false,
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#000000"
-      }
-    ]
+    }
   }
 }

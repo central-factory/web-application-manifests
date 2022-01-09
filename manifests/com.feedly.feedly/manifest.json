@@ -3,6 +3,7 @@
   "name": "Feedly",
   "description": "\n      Your central place to organize, read, and share the information you need to stay ahead of the next big trend in your industry.\n    ",
   "startUrl": "https://feedly.com/",
+  "themeColor": "#2bb24c",
   "categories": [
     "news",
     "entertainment"
@@ -53,20 +54,6 @@
     "author": {
       "id": "com.feedly",
       "name": "Feedly"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Feed",
-    "sidebarShortcuts": [
-      "Feed"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#2bb24c"
-      }
-    ]
+    }
   }
 }

@@ -3,6 +3,7 @@
   "name": "Telegram",
   "description": "Telegram messages are heavily encrypted and can self-destruct. Synced. Telegram lets you access your chats from multiple devices.",
   "startUrl": "https://web.telegram.org",
+  "themeColor": "#0088cc",
   "categories": [
     "social"
   ],
@@ -30,20 +31,6 @@
     "author": {
       "id": "com.telegram",
       "name": "Telegram"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#0088cc"
-      }
-    ]
+    }
   }
 }

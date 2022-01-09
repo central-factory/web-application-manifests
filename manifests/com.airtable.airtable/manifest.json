@@ -3,6 +3,7 @@
   "name": "Airtable",
   "description": "Connect everything. Achieve anything.\n    Accelerate work and unlock potential with powerful apps that connect your data, workflows and teams.",
   "startUrl": "https://www.airtable.com",
+  "themeColor": "#FCB400",
   "categories": [
     "productivity"
   ],
@@ -30,20 +31,6 @@
     "author": {
       "id": "com.airtable",
       "name": "Airtable"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#FCB400"
-      }
-    ]
+    }
   }
 }

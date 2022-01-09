@@ -3,6 +3,7 @@
   "name": "Origin",
   "description": "Get great PC and Mac games on Origin. Play the latest RPGs, shooters, Sims games & more.",
   "startUrl": "https://origin.com/",
+  "themeColor": "#EB5722",
   "categories": [
     "news",
     "games"
@@ -31,20 +32,6 @@
     "author": {
       "id": "com.ea",
       "name": "EA Games"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#EB5722"
-      }
-    ]
+    }
   }
 }

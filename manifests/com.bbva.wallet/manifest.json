@@ -3,6 +3,7 @@
   "name": "BBVA",
   "description": "The latest banks and financial services company and industry news with expert analysis from the BBVA, Banco Bilbao Vizcaya Argentaria.",
   "startUrl": "https://www.bbva.es",
+  "themeColor": "#072146",
   "categories": [
     "finances",
     "shopping"
@@ -31,20 +32,6 @@
     "author": {
       "id": "com.bbva",
       "name": "BBVA"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#072146"
-      }
-    ]
+    }
   }
 }

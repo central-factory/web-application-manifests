@@ -3,6 +3,7 @@
   "name": "Google Maps",
   "description": "Get real-time navigation and more in the Maps app. Stay on web. Use the app. Directions. Drive. Walk. Bike. Public transport.",
   "startUrl": "https://maps.google.com",
+  "themeColor": "#34a853",
   "icons": [
     {
       "src": "assets/icons/simple-icons/googlemaps.svg",
@@ -31,19 +32,6 @@
     "author": {
       "id": "com.alphabet",
       "name": "Alphabet"
-    },
-    "permissions": [],
-    "renderingType": "webview",
-    "internal": false,
-    "defaultShortcut": "Maps",
-    "sidebarShortcuts": [
-      "Maps"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#34a853"
-      }
-    ]
+    }
   }
 }

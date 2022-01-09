@@ -3,6 +3,7 @@
   "name": "Olympics",
   "description": "Official website of the Olympic Games. Access breaking Tokyo 2020 news, plus records and video highlights from the best historic moments in global sport.",
   "startUrl": "https://olympics.com",
+  "themeColor": "#0078D0",
   "categories": [
     "sport"
   ],
@@ -52,20 +53,6 @@
     "author": {
       "id": "com.olympics",
       "name": "Olympics"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#0078D0"
-      }
-    ]
+    }
   }
 }

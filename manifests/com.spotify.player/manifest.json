@@ -3,6 +3,7 @@
   "name": "Spotify",
   "description": "\n      Spotify is all the music you'll ever need.\n\n      Stream free albums and hits, find a song, discover music, and download songs and podcasts with the Spotify free streaming and music player app.\n\n      Free streaming, music search and hits library – Spotify is all that and much more.\n\n      Play songs, sync music, discover music and free albums with Spotify, your go-to music downloader.\n    ",
   "startUrl": "https://open.spotify.com",
+  "themeColor": "#1db954",
   "icons": [
     {
       "src": "assets/icons/simple-icons/spotify.svg",
@@ -63,19 +64,6 @@
     "author": {
       "id": "com.spotify",
       "name": "Spotify"
-    },
-    "permissions": [],
-    "renderingType": "webview",
-    "internal": false,
-    "defaultShortcut": "Player",
-    "sidebarShortcuts": [
-      "Player"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#1db954"
-      }
-    ]
+    }
   }
 }

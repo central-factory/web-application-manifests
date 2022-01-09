@@ -3,6 +3,7 @@
   "name": "Wikipedia",
   "description": "\n      Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.\n    ",
   "startUrl": "https://wikipedia.com/",
+  "themeColor": "#636466",
   "categories": [
     "news",
     "entertainment",
@@ -32,20 +33,6 @@
     "author": {
       "id": "com.wikipedia",
       "name": "Wikipedia"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#636466"
-      }
-    ]
+    }
   }
 }

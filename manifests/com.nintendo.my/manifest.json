@@ -3,6 +3,7 @@
   "name": "Nintendo",
   "description": "My Nintendo makes playing games and interacting with Nintendo even more fun. You can earn points and redeem them to get rewards like in-game content",
   "startUrl": "https://my.nintendo.com/",
+  "themeColor": "#e60012",
   "categories": [
     "news",
     "games"
@@ -31,20 +32,6 @@
     "author": {
       "id": "com.nintendo",
       "name": "Nintendo"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "My Nintendo",
-    "sidebarShortcuts": [
-      "My Nintendo"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#e60012"
-      }
-    ]
+    }
   }
 }

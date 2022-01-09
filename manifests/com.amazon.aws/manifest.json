@@ -3,6 +3,7 @@
   "name": "Amazon Web Services",
   "description": "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.",
   "startUrl": "https://aws.amazon.com",
+  "themeColor": "#ff9900",
   "categories": [
     "productivity"
   ],
@@ -30,20 +31,6 @@
     "author": {
       "id": "com.amazon",
       "name": "Amazon"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#ff9900"
-      }
-    ]
+    }
   }
 }

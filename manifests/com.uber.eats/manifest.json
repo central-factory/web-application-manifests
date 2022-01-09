@@ -3,6 +3,7 @@
   "name": "Uber Eats",
   "description": "Enjoy your local restaurant favorites from the comfort of your own home. The food you want, when you want it. ",
   "startUrl": "https://ubereats.com/",
+  "themeColor": "#09091a",
   "categories": [
     "food",
     "shopping",
@@ -32,20 +33,6 @@
     "author": {
       "id": "com.uber",
       "name": "Uber"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Order",
-    "sidebarShortcuts": [
-      "Order"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#09091a"
-      }
-    ]
+    }
   }
 }

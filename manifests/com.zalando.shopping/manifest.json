@@ -3,6 +3,7 @@
   "name": "Zalando",
   "description": "Descubre las últimas tendencias en ropa, calzado y complementos para mujer, hombre y niño en Zalando.",
   "startUrl": "https://zalando.com/",
+  "themeColor": "#F96902",
   "categories": [
     "shopping",
     "finance"
@@ -31,20 +32,6 @@
     "author": {
       "id": "com.zalando",
       "name": "Zalando"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Store",
-    "sidebarShortcuts": [
-      "Store"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#F96902"
-      }
-    ]
+    }
   }
 }

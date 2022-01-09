@@ -3,6 +3,7 @@
   "name": "Steam Store",
   "description": "\n      Steam is a video game digital distribution service by Valve. It was launched as a standalone software client in September 2003 as a way for Valve to provide automatic updates for their games, and expanded to include games from third-party publishers\n    ",
   "startUrl": "https://store.steampowered.com",
+  "themeColor": "#00adee",
   "categories": [
     "news",
     "games"
@@ -31,20 +32,6 @@
     "author": {
       "id": "com.valve",
       "name": "Valve"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#00adee"
-      }
-    ]
+    }
   }
 }

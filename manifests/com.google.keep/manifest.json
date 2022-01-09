@@ -3,6 +3,7 @@
   "name": "Google Keep",
   "description": "Quickly capture what's on your mind and get a reminder later at the right place or time. Speak a voice memo on the go and have it automatically transcribed.",
   "startUrl": "https://keep.google.com",
+  "themeColor": "#fbbc05",
   "icons": [
     {
       "src": "assets/icons/simple-icons/googlekeep.svg",
@@ -31,19 +32,6 @@
     "author": {
       "id": "com.alphabet",
       "name": "Alphabet"
-    },
-    "permissions": [],
-    "renderingType": "webview",
-    "internal": false,
-    "defaultShortcut": "Keep",
-    "sidebarShortcuts": [
-      "Keep"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#fbbc05"
-      }
-    ]
+    }
   }
 }

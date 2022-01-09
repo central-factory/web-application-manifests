@@ -3,6 +3,7 @@
   "name": "Github",
   "description": "GitHub is where over 73 million developers shape the future of software, together.  Contribute to the open source community, manage your Git repositories and much more.",
   "startUrl": "https://github.com",
+  "themeColor": "#2D333B",
   "icons": [
     {
       "src": "assets/icons/simple-icons/github.svg",
@@ -31,19 +32,6 @@
     "author": {
       "id": "com.microsoft",
       "name": "Microsoft"
-    },
-    "permissions": [],
-    "renderingType": "webview",
-    "internal": false,
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#2D333B"
-      }
-    ]
+    }
   }
 }

@@ -3,6 +3,7 @@
   "name": "Google Flights",
   "description": "Find the best flights fast, track prices, and book with confidence.",
   "startUrl": "https://flights.google.com",
+  "themeColor": "#4285f4",
   "icons": [
     {
       "src": "assets/icons/mdi/airplane.svg",
@@ -31,19 +32,6 @@
     "author": {
       "id": "com.alphabet",
       "name": "Alphabet"
-    },
-    "permissions": [],
-    "renderingType": "webview",
-    "internal": false,
-    "defaultShortcut": "Flights",
-    "sidebarShortcuts": [
-      "Flights"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#4285f4"
-      }
-    ]
+    }
   }
 }

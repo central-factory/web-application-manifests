@@ -3,6 +3,7 @@
   "name": "Just Eat",
   "description": "Order your favourite takeaway from restaurants all over Spain on the app you love. Freshly cooked from your favourite restaurants directly to your door. Order today. More than 15k restaurants. Exclusive Offers. Pizza, sushi, thai & more. Contactless Delivery.",
   "startUrl": "https://just-eat.es/",
+  "themeColor": "#F96101",
   "categories": [
     "food",
     "shopping",
@@ -32,20 +33,6 @@
     "author": {
       "id": "com.just-eat",
       "name": "Just Eat"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Order",
-    "sidebarShortcuts": [
-      "Order"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#F96101"
-      }
-    ]
+    }
   }
 }

@@ -1,8 +1,9 @@
 {
-  "id": "com.discord",
+  "id": "com.discord.discord",
   "name": "Discord",
   "description": "Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang out, and stay close with your friends and communities.",
   "startUrl": "https://discord.com/",
+  "themeColor": "#7289da",
   "categories": [
     "social"
   ],
@@ -30,20 +31,6 @@
     "author": {
       "id": "com.discord",
       "name": "Discord"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#7289da"
-      }
-    ]
+    }
   }
 }

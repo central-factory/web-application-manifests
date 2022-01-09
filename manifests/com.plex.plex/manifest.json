@@ -3,6 +3,7 @@
   "name": "Plex",
   "description": "Plex marks the spot for free streaming.\n    Say goodbye to free movie websites and hello to the app that brings you over 50,000 on-demand titles, plus live TV on all your favorite devices.",
   "startUrl": "https://app.plex.tv/desktop/#!/",
+  "themeColor": "#E5A00E",
   "categories": [
     "entertainment"
   ],
@@ -41,20 +42,6 @@
     "author": {
       "id": "com.plex",
       "name": "Plex"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#E5A00E"
-      }
-    ]
+    }
   }
 }

@@ -3,6 +3,7 @@
   "name": "iVoox",
   "description": "\n      With Podcast & Radio iVoox you can listen, share and download podcasts, radio shows and much more for free, when you want, where you want.\n      Courses, conferences, classes, lectures, audio books, children’s stories, audio guides, stand up comedy, stories, music and concerts, poems, biographies and even meditation sessions.\n    ",
   "startUrl": "https://ivoox.com",
+  "themeColor": "#f47721",
   "icons": [
     {
       "src": "assets/icons/mdi/podcast.svg",
@@ -85,19 +86,6 @@
     "author": {
       "id": "com.ivoox",
       "name": "iVoox Podcast y Radio"
-    },
-    "permissions": [],
-    "renderingType": "webview",
-    "internal": false,
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#f47721"
-      }
-    ]
+    }
   }
 }

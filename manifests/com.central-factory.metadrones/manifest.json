@@ -3,6 +3,7 @@
   "name": "Metadrones",
   "description": "Game demo on how to integrate with the metaverse",
   "startUrl": "https://aitorllamas.com/metaverse/apps/metadrones/remoteEntry.js",
+  "themeColor": "#d1d36f",
   "icons": [
     {
       "src": "assets/icons/mdi/drone.svg",
@@ -31,19 +32,7 @@
       "id": "com.central-factory",
       "name": "Central Factory"
     },
-    "permissions": [],
     "renderingType": "webpack-module-federation",
-    "supportsBrowser": true,
-    "internal": false,
-    "defaultShortcut": "Metadrones",
-    "sidebarShortcuts": [
-      "Metadrones"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#d1d36f"
-      }
-    ]
+    "supportsBrowser": true
   }
 }

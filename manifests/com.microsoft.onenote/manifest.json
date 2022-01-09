@@ -3,6 +3,7 @@
   "name": "Onenote",
   "description": "Capture thoughts, ideas, and to-dos and sync them to all your devices · Store and share your notebooks on OneDrive with your free Microsoft account",
   "startUrl": "https://www.onenote.com",
+  "themeColor": "#733781",
   "categories": [
     "productivity"
   ],
@@ -30,20 +31,6 @@
     "author": {
       "id": "com.microsoft",
       "name": "Microsoft"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#733781"
-      }
-    ]
+    }
   }
 }

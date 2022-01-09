@@ -3,6 +3,7 @@
   "name": "Office",
   "description": "Collaborate for free with online versions of Microsoft Word, PowerPoint, Excel, and OneNote. Save documents, spreadsheets, and presentations online",
   "startUrl": "https://www.office.com",
+  "themeColor": "#ea3e23",
   "categories": [
     "productivity"
   ],
@@ -30,20 +31,6 @@
     "author": {
       "id": "com.microsoft",
       "name": "Microsoft"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#ea3e23"
-      }
-    ]
+    }
   }
 }

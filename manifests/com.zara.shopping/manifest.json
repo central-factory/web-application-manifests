@@ -3,6 +3,7 @@
   "name": "Zara",
   "description": "Latest trends in clothing for women, men & kids at ZARA",
   "startUrl": "https://zara.com/",
+  "themeColor": "#000000",
   "categories": [
     "shopping",
     "finance"
@@ -31,20 +32,6 @@
     "author": {
       "id": "com.zara",
       "name": "Zara"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Store",
-    "sidebarShortcuts": [
-      "Store"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#000000"
-      }
-    ]
+    }
   }
 }

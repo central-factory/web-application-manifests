@@ -3,6 +3,7 @@
   "name": "Simple Icons",
   "description": "2135+ Free SVG icons for popular brands",
   "startUrl": "https://simpleicons.org/",
+  "themeColor": "#222222",
   "categories": [
     "personalization",
     "utilities"
@@ -31,20 +32,6 @@
     "author": {
       "id": "com.simpleicons",
       "name": "Simple Icons"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#222222"
-      }
-    ]
+    }
   }
 }

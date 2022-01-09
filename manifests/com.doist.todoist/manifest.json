@@ -3,6 +3,7 @@
   "name": "Todoist",
   "description": "The Ultimate Task Management Software To Organize Your Work And Life. Get All Those Tasks Out Of Your Head And Onto Your To-Do List To Regain Clarity & Do More. Trusted By Top Companies. Simple Pricing. Easy Integrations. Free Plan Available.",
   "startUrl": "https://todoist.com/app/",
+  "themeColor": "#DB4C3F",
   "icons": [
     {
       "src": "assets/icons/simple-icons/todoist.svg",
@@ -31,19 +32,6 @@
     "author": {
       "id": "com.doist",
       "name": "Doist"
-    },
-    "permissions": [],
-    "renderingType": "webview",
-    "internal": false,
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#DB4C3F"
-      }
-    ]
+    }
   }
 }

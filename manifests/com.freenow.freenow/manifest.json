@@ -3,6 +3,7 @@
   "name": "Free Now",
   "description": "FREE NOW is a licensed ride-hailing and multi-mobility app in 10 European countries. Book easily, pay in-app quickly and complete your trip safely!",
   "startUrl": "https://free-now.com/",
+  "themeColor": "#F80B2B",
   "icons": [
     {
       "src": "assets/icons/mdi/taxi.svg",
@@ -31,19 +32,6 @@
     "author": {
       "id": "com.freenow",
       "name": "Free Now"
-    },
-    "permissions": [],
-    "renderingType": "webview",
-    "internal": false,
-    "defaultShortcut": "Order",
-    "sidebarShortcuts": [
-      "Order"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#F80B2B"
-      }
-    ]
+    }
   }
 }

@@ -3,6 +3,7 @@
   "name": "BrandColors",
   "description": "The biggest collection of official brand color codes around. Curated by @brandcolors and friends.",
   "startUrl": "https://brandcolors.net/",
+  "themeColor": "#E91F63",
   "categories": [
     "personalization",
     "utilities"
@@ -31,20 +32,6 @@
     "author": {
       "id": "net.brandcolors",
       "name": "BrandColors"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "PortalPortal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#E91F63"
-      }
-    ]
+    }
   }
 }

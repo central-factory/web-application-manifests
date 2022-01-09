@@ -3,6 +3,7 @@
   "name": "Youtube",
   "description": "\n      See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n    ",
   "startUrl": "https://youtube.com",
+  "themeColor": "#ea4335",
   "icons": [
     {
       "src": "assets/icons/simple-icons/youtube.svg",
@@ -74,19 +75,6 @@
     "author": {
       "id": "com.aplhabet",
       "name": "Alphabet"
-    },
-    "permissions": [],
-    "renderingType": "webview",
-    "internal": false,
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#ea4335"
-      }
-    ]
+    }
   }
 }

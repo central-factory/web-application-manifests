@@ -3,6 +3,7 @@
   "name": "Google Calendar",
   "description": "The Google Calendar app helps you spend less time managing",
   "startUrl": "https://calendar.google.com",
+  "themeColor": "#4285f4",
   "icons": [
     {
       "src": "assets/icons/simple-icons/googlecalendar.svg",
@@ -42,19 +43,6 @@
     "author": {
       "id": "com.alphabet",
       "name": "Alphabet"
-    },
-    "permissions": [],
-    "renderingType": "webview",
-    "internal": false,
-    "defaultShortcut": "Agenda",
-    "sidebarShortcuts": [
-      "Agenda"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#4285f4"
-      }
-    ]
+    }
   }
 }

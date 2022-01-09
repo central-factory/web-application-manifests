@@ -3,6 +3,7 @@
   "name": "Azure",
   "description": "Plan smarter, collaborate better, and ship faster with Azure DevOps Services, formerly known as Visual Studio Team Services. Get agile tools, CI/CD...",
   "startUrl": "https://dev.azure.com",
+  "themeColor": "#0074D0",
   "categories": [
     "productivity"
   ],
@@ -41,20 +42,6 @@
     "author": {
       "id": "com.microsoft",
       "name": "Microsoft"
-    },
-    "renderingType": "webview",
-    "supportsBrowser": false,
-    "internal": false,
-    "permissions": [],
-    "defaultShortcut": "DevOps",
-    "sidebarShortcuts": [
-      "DevOps"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#0074D0"
-      }
-    ]
+    }
   }
 }

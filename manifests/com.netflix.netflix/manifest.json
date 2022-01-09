@@ -3,6 +3,7 @@
   "name": "Netflix",
   "description": "\n      Looking for the most talked-about TV programs and films from the around the world? They’re all on Netflix.\n\n      We’ve got award-winning series, films, documentaries and stand-up specials.\n    ",
   "startUrl": "https://netflix.com",
+  "themeColor": "#e50914",
   "icons": [
     {
       "src": "assets/icons/simple-icons/netflix.svg",
@@ -52,19 +53,6 @@
     "author": {
       "id": "com.netflix",
       "name": "Netflix, Inc"
-    },
-    "permissions": [],
-    "renderingType": "webview",
-    "internal": false,
-    "defaultShortcut": "Portal",
-    "sidebarShortcuts": [
-      "Portal"
-    ],
-    "colors": [
-      {
-        "variation": "primary",
-        "color": "#e50914"
-      }
-    ]
+    }
   }
 }
