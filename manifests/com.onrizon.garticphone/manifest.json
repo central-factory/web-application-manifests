@@ -1,0 +1,37 @@
+{
+    "id": "com.onrizon.garticphone",
+    "name": "Gartic Phone",
+    "description": "The online Telephone Game! Play the popular game for free now.",
+    "startUrl": "https://garticphone.com/",
+    "themeColor": "#310250",
+    "categories": [
+      "games"
+    ],
+    "icons": [
+      {
+        "src": "assets/icons/mdi/phone-classic.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Play",
+        "url": "https://garticphone.com/",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/phone-classic.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.onrizon",
+        "name": "Onrizon Social Games"
+      }
+    }
+  }
+  

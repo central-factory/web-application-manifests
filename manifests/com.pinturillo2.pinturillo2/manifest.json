@@ -29,7 +29,7 @@
     ],
     "additionalProperties": {
       "author": {
-        "id": "com.pinturillo2.pinturillo2",
+        "id": "com.pinturillo2",
         "name": "Pinturillo 2"
       }
     }

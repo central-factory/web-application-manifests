@@ -16,7 +16,7 @@
     ],
     "shortcuts": [
       {
-        "name": "GeoGuessr",
+        "name": "Play",
         "url": "https://www.geoguessr.com/",
         "icons": [
           {
@@ -29,7 +29,7 @@
     ],
     "additionalProperties": {
       "author": {
-        "id": "com.geoguessr.geoguessr",
+        "id": "com.geoguessr",
         "name": "GeoGuessr"
       }
     }
