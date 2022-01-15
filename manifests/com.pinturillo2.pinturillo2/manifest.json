@@ -1,0 +1,37 @@
+{
+    "id": "com.pinturillo2.pinturillo2",
+    "name": "Pinturillo 2",
+    "description": "Online multiplayer pictionary game",
+    "startUrl": "https://www.pinturillo2.com/",
+    "themeColor": "#326667",
+    "categories": [
+      "games"
+    ],
+    "icons": [
+      {
+        "src": "assets/icons/mdi/lead-pencil.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Play",
+        "url": "https://www.pinturillo2.com/",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/lead-pencil.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.pinturillo2.pinturillo2",
+        "name": "Pinturillo 2"
+      }
+    }
+  }
+  

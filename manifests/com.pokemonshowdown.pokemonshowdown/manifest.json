@@ -1,0 +1,37 @@
+{
+    "id": "com.pokemonshowdown.pokemonshowdown",
+    "name": "Pokémon Showdown",
+    "description": "Pokémon Showdown is a Pokémon battle simulator. Play Pokémon battles online! Play with randomly generated teams, or build your own! Fully animated!",
+    "startUrl": "https://play.pokemonshowdown.com/",
+    "themeColor": "#256fa1",
+    "categories": [
+      "games"
+    ],
+    "icons": [
+      {
+        "src": "assets/icons/mdi/pokeball.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Play",
+        "url": "https://play.pokemonshowdown.com/",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/pokeball.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.pokemonshowdown",
+        "name": "Pokemon Showdown"
+      }
+    }
+  }
+  
