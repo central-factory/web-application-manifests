@@ -1,0 +1,37 @@
+{
+    "id": "com.tiktok.tiktok",
+    "name": "TikTok",
+    "description": "TikTok is a global short video community. With this app you can discover, create and edit incredible videos, and easily share them with your friends ",
+    "startUrl": "https://tiktok.com",
+    "themeColor": "#000000",
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/tiktok.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://tiktok.com",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/tiktok.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      "social"
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.tiktok",
+        "name": "TikTok"
+      }
+    }
+  }
+  
