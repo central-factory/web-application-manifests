@@ -1,0 +1,37 @@
+{
+    "id": "com.youtube.kids",
+    "name": "Youtube Kids",
+    "description": "YouTube Kids was created with the idea of ​​providing a safe environment for children in which they can navigate for themselves in an easy and fun way. Plus, help parents and caregivers guide them on this adventure as they discover and develop new and exciting hobbies.",
+    "startUrl": "https://www.youtubekids.com/",
+    "themeColor": "#FF0000",
+    "categories": [
+      "kids"
+    ],
+    "icons": [
+      {
+        "src": "assets/icons/mdi/google-fit.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://www.youtubekids.com/",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/youtube.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.alphabet",
+        "name": "Alphabet"
+      }
+    }
+  }
+  
