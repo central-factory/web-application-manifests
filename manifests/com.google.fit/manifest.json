@@ -1,0 +1,38 @@
+{
+    "id": "com.google.fit",
+    "name": "Google Fit",
+    "description": "",
+    "startUrl": "https://www.fit.google.com",
+    "themeColor": "#0078D4",
+    "categories": [
+      "productivity",
+      "education"
+    ],
+    "icons": [
+      {
+        "src": "assets/icons/mdi/google-fit.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://www.fit.google.com",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/google-fit.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.google",
+        "name": "Google"
+      }
+    }
+  }
+  
