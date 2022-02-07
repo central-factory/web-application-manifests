@@ -1,0 +1,37 @@
+{
+    "id": "com.meta.oculus",
+    "name": "Oculus",
+    "description": "Quest 2 is synonymous with endless fun. The best multiplayer titles and games? We've got them. New ways to exercise, socialize and lose weight?",
+    "startUrl": "https://www.oculus.com/",
+    "themeColor": "#1C1E20",
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/oculus.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Meta Quest",
+        "url": "https://www.oculus.com/experiences/quest/",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/store.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      "social"
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.meta",
+        "name": "Meta"
+      }
+    }
+  }
+  
