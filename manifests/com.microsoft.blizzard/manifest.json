@@ -1,0 +1,37 @@
+{
+    "id": "com.microsoft.blizzard",
+    "name": "Blizzard",
+    "description": "Creators of the Warcraft, Diablo, StarCraft, and Overwatch series, Blizzard Entertainment is an industry-leading developer responsible for the most epic...",
+    "startUrl": "https://www.blizzard.com",
+    "themeColor": "#009be4",
+    "icons": [
+      {
+        "src": "assets/icons/mdi/alpha-b.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://www.blizzard.com",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/alpha-b.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      "games"
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.microsoft",
+        "name": "Microsoft"
+      }
+    }
+  }
+  
