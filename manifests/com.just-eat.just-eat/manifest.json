@@ -5,9 +5,7 @@
   "startUrl": "https://just-eat.es/",
   "themeColor": "#F96101",
   "categories": [
-    "food",
-    "shopping",
-    "finance"
+    "food"
   ],
   "icons": [
     {

@@ -5,9 +5,7 @@
   "startUrl": "https://burgerking.es/",
   "themeColor": "#F96101",
   "categories": [
-    "food",
-    "shopping",
-    "finance"
+    "food"
   ],
   "icons": [
     {

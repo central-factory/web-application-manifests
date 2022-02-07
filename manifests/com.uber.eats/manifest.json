@@ -5,9 +5,7 @@
   "startUrl": "https://ubereats.com/",
   "themeColor": "#09091a",
   "categories": [
-    "food",
-    "shopping",
-    "finance"
+    "food"
   ],
   "icons": [
     {
