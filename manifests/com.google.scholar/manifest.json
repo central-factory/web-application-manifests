@@ -1,7 +1,7 @@
 {
     "id": "com.google.scholar",
     "name": "Google Scholar",
-    "description": "",
+    "description": "Google Scholar provides a simple way to broadly search for scholarly literature. ",
     "startUrl": "https://www.scholar.google.com",
     "themeColor": "#0078D4",
     "categories": [
