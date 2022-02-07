@@ -3,7 +3,7 @@
     "name": "Stack Overflow",
     "description": "Questions and answers for programmers and IT professionals. ",
     "startUrl": "https://stackoverflow.com/",
-    "themeColor": "#1E5397",
+    "themeColor": "#F58025",
     "icons": [
       {
         "src": "assets/icons/simple-icons/stackoverflow.svg",
