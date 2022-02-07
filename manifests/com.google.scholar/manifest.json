@@ -1,0 +1,38 @@
+{
+    "id": "com.google.scholar",
+    "name": "Google Scholar",
+    "description": "",
+    "startUrl": "https://www.scholar.google.com",
+    "themeColor": "#0078D4",
+    "categories": [
+      "productivity",
+      "education"
+    ],
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/googlescholar.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://www.scholar.google.com",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/googlescholar.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.google",
+        "name": "Google"
+      }
+    }
+  }
+  
