@@ -1,0 +1,38 @@
+{
+    "id": "com.slack.slack",
+    "name": "Slack",
+    "description": "Slack is your digital headquarters · Colored thread spools lined up to represent organized channels. Move faster by organizing your work life.",
+    "startUrl": "https://slack.com",
+    "themeColor": "#4A154B",
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/slack.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://tiktok.com",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/slack.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      "social",
+      "business"
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.slack",
+        "name": "Slack"
+      }
+    }
+  }
+  

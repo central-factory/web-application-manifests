@@ -1,0 +1,39 @@
+{
+    "id": "com.stackexchange.exchange",
+    "name": "Stack Overflow",
+    "description": "Questions and answers for programmers and IT professionals. ",
+    "startUrl": "https://stackoverflow.com/",
+    "themeColor": "#1E5397",
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/stackoverflow.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://stackoverflow.com",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/stackoverflow.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      "productivity",
+      "education",
+      "devtools"
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.stackexchange",
+        "name": "Stack Exchange"
+      }
+    }
+  }
+  

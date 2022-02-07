@@ -1,0 +1,39 @@
+{
+    "id": "com.stackexchange.exchange",
+    "name": "Stack Exchange",
+    "description": "Stack Exchange is a network of question and answer websites on different topics, where questions, answers and users are subject to a reputation and reward system. This system allows sites to self-moderate. ",
+    "startUrl": "https://stackexchange.com/",
+    "themeColor": "#1E5397",
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/stackexchange.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://stackexchange.com",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/stackexchange.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      "productivity",
+      "education",
+      "devtools"
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.stackexchange",
+        "name": "Stack Exchange"
+      }
+    }
+  }
+  
