@@ -1,0 +1,39 @@
+{
+    "id": "com.coinbase.coinbase",
+    "name": "Coinbase",
+    "description": "Quest 2 is synonymous with endless fun. The best multiplayer titles and games? We've got them. New ways to exercise, socialize and lose weight?",
+    "startUrl": "https://www.coinbase.com/",
+    "themeColor": "#0052FF",
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/coinbase.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://www.coinbase.com/",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/store.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      "finance",
+      "shopping",
+      "business"
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.meta",
+        "name": "Meta"
+      }
+    }
+  }
+  

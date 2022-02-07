@@ -1,0 +1,38 @@
+{
+    "id": "com.eurosport.eurosport",
+    "name": "Eurosport",
+    "description": "Eurosport is your go-to source for sports news, video on demand, commentary and summaries - all in one place.",
+    "startUrl": "https://www.eurosport.com/",
+    "themeColor": "#000000",
+    "icons": [
+      {
+        "src": "assets/icons/mdi/basketball.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://www.eurosport.com/",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/basketball.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      "sports",
+      "entertainment"
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.eurosport",
+        "name": "Eurosport"
+      }
+    }
+  }
+  
