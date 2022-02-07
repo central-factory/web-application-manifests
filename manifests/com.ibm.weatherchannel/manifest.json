@@ -1,0 +1,39 @@
+{
+    "id": "com.ibm.weather",
+    "name": "The Weather Channel",
+    "description": "",
+    "startUrl": "https://weather.com/",
+    "themeColor": "#022d50",
+    "icons": [
+      {
+        "src": "assets/icons/mdi/weather-cloudy.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://weather.com",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/weather-cloudy.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      "weather",
+      "travel",
+      "news"
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.ibm",
+        "name": "IBM"
+      }
+    }
+  }
+  

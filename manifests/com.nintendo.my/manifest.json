@@ -5,7 +5,6 @@
   "startUrl": "https://my.nintendo.com/",
   "themeColor": "#e60012",
   "categories": [
-    "news",
     "games"
   ],
   "icons": [

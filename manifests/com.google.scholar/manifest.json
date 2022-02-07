@@ -30,8 +30,8 @@
     ],
     "additionalProperties": {
       "author": {
-        "id": "com.google",
-        "name": "Google"
+        "id": "com.alphabet",
+        "name": "Alphabet"
       }
     }
   }
