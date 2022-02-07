@@ -1,0 +1,40 @@
+{
+    "id": "com.fitbit.fitbit",
+    "name": "Fitbit",
+    "description": "Find your fit with Fitbit's family of fitness products that help you stay motivated and improve your health by tracking your activity, exercise, food...",
+    "startUrl": "https://www.fitbit.com",
+    "themeColor": "#00B0B9",
+    "categories": [
+      "fitness",
+      "health",
+      "medical",
+      "food"
+    ],
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/fitbit.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://www.fitbit.com",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/fitbit.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.alphabet",
+        "name": "Alphabet"
+      }
+    }
+  }
+  
