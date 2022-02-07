@@ -1,0 +1,38 @@
+
+{
+    "id": "com.headspace.headspace",
+    "name": "Headspace",
+    "description": "Learn to meditate and change your life in just a few minutes a day at Headspace. Find hundreds of sessions related to physical health, growth ...",
+    "startUrl": "https://www.headspace.com/",
+    "themeColor": "#F47D31",
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/headspace.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://www.headspace.com/",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/headspace.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      "lifestyle"
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.headspace",
+        "name": "Headspace"
+      }
+    }
+  }
+  
