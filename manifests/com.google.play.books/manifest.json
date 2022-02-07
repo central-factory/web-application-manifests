@@ -1,0 +1,50 @@
+{
+    "id": "com.google.play.books",
+    "name": "Google Play Books",
+    "description": "Google Play Libros es la única app que necesitas para comprar y disfrutar libros electrónicos, audiolibros, cómics y manga.",
+    "startUrl": "https://play.google.com/books",
+    "themeColor": "#039be6",
+    "icons": [
+      {
+        "src": "assets/icons/mdi/book.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "My Books",
+        "url": "https://play.google.com/books",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/book.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "name": "Store",
+        "url": "https://play.google.com/store/books",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/google-play.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      "books",
+      "education",
+      "entertainment"
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.alphabet",
+        "name": "Alphabet"
+      }
+    }
+  }
+  

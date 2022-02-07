@@ -1,0 +1,71 @@
+{
+    "id": "com.google.podcasts",
+    "name": "Google Podcasts",
+    "description": "Google Play Libros es la única app que necesitas para comprar y disfrutar libros electrónicos, audiolibros, cómics y manga.",
+    "startUrl": "https://podcasts.google.com/",
+    "themeColor": "#4285F4",
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/googlepodcasts.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://podcasts.google.com/",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/googlepodcasts.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "name": "Subscriptions",
+        "url": "https://podcasts.google.com/subscriptions",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/playlist-check.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "name": "Queue",
+        "url": "https://podcasts.google.com/queue",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/playlist-play.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "name": "Subscribe by RSS Feed",
+        "url": "https://podcasts.google.com/subscribe-by-rss-feed",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/rss.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      "entertainment",
+      "news"
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.alphabet",
+        "name": "Alphabet"
+      }
+    }
+  }
+  
