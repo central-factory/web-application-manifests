@@ -3,7 +3,7 @@
     "name": "Google Fit",
     "description": "",
     "startUrl": "https://www.fit.google.com",
-    "themeColor": "#0078D4",
+    "themeColor": "#4486f6",
     "categories": [
       "fitness",
       "health"
