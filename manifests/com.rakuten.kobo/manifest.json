@@ -1,0 +1,38 @@
+{
+    "id": "com.rakuten.kobo",
+    "name": "Kobo",
+    "description": "Find eBook at a great price every day. Popular titles, classics and more. Access more than 6 million eBooks and win prizes. Start reading today. Bestsellers. Get rewards. Daily deals. Read offline. 24 hour assistance. ",
+    "startUrl": "https://kobo.com",
+    "themeColor": "#BF0000",
+    "icons": [
+      {
+        "src": "assets/icons/mdi/book-open-variant.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://kobo.com",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/book-open-variant.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "categories": [
+        "shopping",
+        "books"
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.rakuten",
+        "name": "Rakuten"
+      }
+    }
+  }
+  
