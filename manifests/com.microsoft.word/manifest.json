@@ -1,0 +1,37 @@
+{
+  "id": "com.microsoft.word",
+  "name": "Word",
+  "description": "Microsoft Word offers superior document creation and word processing. Learn how document collaboration and editing tools",
+  "startUrl": "https://www.office.com/launch/word",
+  "themeColor": "#2B579A",
+  "categories": [
+    "productivity",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/microsoftword.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://www.office.com/launch/word",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/microsoftword.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.microsoft",
+      "name": "Microsoft"
+    }
+  }
+}

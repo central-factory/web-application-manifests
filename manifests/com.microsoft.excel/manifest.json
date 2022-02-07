@@ -1,0 +1,38 @@
+{
+    "id": "com.microsoft.excel",
+    "name": "excel",
+    "description": "Microsoft Excel is the industry's leading spreadsheet software program and an advanced data visualization and analysis tool. ",
+    "startUrl": "https://www.office.com/launch/excel",
+    "themeColor": "#217346",
+    "categories": [
+      "productivity",
+      "business"
+    ],
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/microsoftexcel.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://www.office.com/launch/excel",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/microsoftexcel.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.microsoft",
+        "name": "Microsoft"
+      }
+    }
+  }
+  
