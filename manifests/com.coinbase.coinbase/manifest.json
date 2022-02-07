@@ -31,8 +31,8 @@
     ],
     "additionalProperties": {
       "author": {
-        "id": "com.meta",
-        "name": "Meta"
+        "id": "com.coinbase",
+        "name": "Coinbase"
       }
     }
   }
