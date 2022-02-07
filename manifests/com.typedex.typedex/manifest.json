@@ -1,0 +1,38 @@
+
+{
+  "id": "com.typedex.typedex",
+  "name": "Typedex",
+  "description": "A comprehensive Pokemon type calculator and Pokedex.",
+  "startUrl": "https://typedex.app/",
+  "themeColor": "#fe6d8c",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/mdi/pokemon-go.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Typedex",
+      "url": "https://typedex.app",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/pokemon-go.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.typedex",
+      "name": "Typedex"
+    }
+  }
+}
+  
