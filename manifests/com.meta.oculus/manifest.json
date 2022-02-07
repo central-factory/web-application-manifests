@@ -25,7 +25,9 @@
       }
     ],
     "categories": [
-      "social"
+      "social",
+      "shopping",
+      "games"
     ],
     "additionalProperties": {
       "author": {
