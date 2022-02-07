@@ -2,12 +2,12 @@
 {
     "id": "com.imdb.imdb",
     "name": "IMDb",
-    "description": "Slack is your digital headquarters · Colored thread spools lined up to represent organized channels. Move faster by organizing your work life.",
-    "startUrl": "https://slack.com",
-    "themeColor": "#4A154B",
+    "description": "IMDb is the world's most popular and authoritative source for movie, TV and celebrity content. Find ratings and reviews for the newest movie and TV shows.",
+    "startUrl": "https://imdb.com",
+    "themeColor": "#F5C518",
     "icons": [
       {
-        "src": "assets/icons/simple-icons/slack.svg",
+        "src": "assets/icons/simple-icons/imdb.svg",
         "sizes": "512x512",
         "type": "image/svg+xml"
       }
@@ -15,10 +15,10 @@
     "shortcuts": [
       {
         "name": "Portal",
-        "url": "https://tiktok.com",
+        "url": "https://imdb.com",
         "icons": [
           {
-            "src": "assets/icons/simple-icons/slack.svg",
+            "src": "assets/icons/simple-icons/imdb.svg",
             "sizes": "512x512",
             "type": "image/svg+xml"
           }
@@ -26,13 +26,12 @@
       }
     ],
     "categories": [
-      "social",
-      "business"
+      "entertainment"
     ],
     "additionalProperties": {
       "author": {
-        "id": "com.slack",
-        "name": "Slack"
+        "id": "com.imdb",
+        "name": "IMDb"
       }
     }
   }
