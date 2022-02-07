@@ -1,0 +1,37 @@
+{
+    "id": "com.freeciv.freeciv",
+    "name": "FreeCiv",
+    "description": "Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. The game commences in prehistory and your mission is to lead your tribe from the Stone Age to the Space Age. Freeciv can be played online in your web-browser for free.",
+    "startUrl": "https://www.freecivweb.org/",
+    "themeColor": "#2f3334",
+    "icons": [
+      {
+        "src": "assets/icons/mdi/chess-rook.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://www.freecivweb.org/",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/chess-rook.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      "games"
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.freeciv",
+        "name": "The Freeciv Project"
+      }
+    }
+  }
+  
