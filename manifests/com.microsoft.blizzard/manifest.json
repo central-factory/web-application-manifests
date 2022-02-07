@@ -6,7 +6,7 @@
     "themeColor": "#009be4",
     "icons": [
       {
-        "src": "assets/icons/mdi/alpha-b.svg",
+        "src": "assets/icons/mdi/alpha-b-circle.svg",
         "sizes": "512x512",
         "type": "image/svg+xml"
       }
@@ -17,7 +17,7 @@
         "url": "https://www.blizzard.com",
         "icons": [
           {
-            "src": "assets/icons/mdi/alpha-b.svg",
+            "src": "assets/icons/mdi/alpha-b-circle.svg",
             "sizes": "512x512",
             "type": "image/svg+xml"
           }
