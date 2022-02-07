@@ -1,0 +1,38 @@
+{
+    "id": "com.microsoft.outlook.office",
+    "name": "Outlook Office",
+    "description": "Connect and stay organized with your email, calendar and contacts in one place with the latest version of Outlook ",
+    "startUrl": "https://www.outlook.office.com",
+    "themeColor": "#0078D4",
+    "categories": [
+      "productivity",
+      "business"
+    ],
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/microsoftoutlook.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://www.outlook.office.com",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/microsoftoutlook.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.microsoft",
+        "name": "Microsoft"
+      }
+    }
+  }
+  

@@ -5,7 +5,8 @@
   "startUrl": "https://amazon.es",
   "themeColor": "#ff9900",
   "categories": [
-    "shopping"
+    "shopping",
+    "books"
   ],
   "icons": [
     {
