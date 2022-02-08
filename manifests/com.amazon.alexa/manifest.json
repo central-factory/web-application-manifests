@@ -1,0 +1,37 @@
+{
+    "id": "com.amazon.alexa",
+    "name": "Amazon Alexa",
+    "description": "Alexa is Amazon's cloud-based voice service available on Amazon and third-party Alexa-enabled devices.",
+    "startUrl": "https://alexa.amazon.com",
+    "themeColor": "#00CAFF",
+    "categories": [
+      "lifestyle"
+    ],
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/amazonalexa.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://alexa.amazon.com",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/amazonalexa.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.amazon",
+        "name": "Amazon"
+      }
+    }
+  }
+  
