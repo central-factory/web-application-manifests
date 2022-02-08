@@ -1,0 +1,38 @@
+{
+    "id": "com.imgur.imgur",
+    "name": "Imgur",
+    "description": "Imgur is the easiest way to discover and enjoy the magic of the Internet.",
+    "startUrl": "https://imgur.com",
+    "themeColor": "#1BB76E",
+    "categories": [
+        "photo",
+        "devtools"
+    ],
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/amazonalexa.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://alexa.amazon.com",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/amazonalexa.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.imgur",
+        "name": "Imgur LLC"
+      }
+    }
+  }
+  
