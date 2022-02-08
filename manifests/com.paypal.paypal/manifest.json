@@ -1,0 +1,39 @@
+{
+    "id": "com.paypal.paypal",
+    "name": "PayPal",
+    "description": "Transfer money online in seconds with PayPal money transfer.",
+    "startUrl": "https://www.paypal.com",
+    "themeColor": "#00457C",
+    "categories": [
+      "finance",
+      "shopping",
+      "business"
+    ],
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/paypal.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://www.bbva.es",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/paypal.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.paypal",
+        "name": "PayPal"
+      }
+    }
+  }
+  

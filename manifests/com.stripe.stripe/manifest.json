@@ -1,0 +1,39 @@
+{
+    "id": "com.stripe.stripe",
+    "name": "Stripe",
+    "description": "Grow your activity quickly with the Stripe payment platform.",
+    "startUrl": "https://www.stripe.com",
+    "themeColor": "#008CDD",
+    "categories": [
+      "finance",
+      "shopping",
+      "business"
+    ],
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/stripe.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://www.stripe.com",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/stripe.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.stripe",
+        "name": "Stripe"
+      }
+    }
+  }
+  
