@@ -9,7 +9,7 @@
     ],
     "icons": [
       {
-        "src": "assets/icons/mdi/youtubemusic.svg",
+        "src": "assets/icons/simple-icons/youtubemusic.svg",
         "sizes": "512x512",
         "type": "image/svg+xml"
       }
