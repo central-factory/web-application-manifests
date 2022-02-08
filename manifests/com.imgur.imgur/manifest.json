@@ -10,7 +10,7 @@
     ],
     "icons": [
       {
-        "src": "assets/icons/simple-icons/amazonalexa.svg",
+        "src": "assets/icons/simple-icons/imgur.svg",
         "sizes": "512x512",
         "type": "image/svg+xml"
       }
@@ -18,10 +18,10 @@
     "shortcuts": [
       {
         "name": "Portal",
-        "url": "https://alexa.amazon.com",
+        "url": "https://imgur.com",
         "icons": [
           {
-            "src": "assets/icons/simple-icons/amazonalexa.svg",
+            "src": "assets/icons/simple-icons/imgur.svg",
             "sizes": "512x512",
             "type": "image/svg+xml"
           }
