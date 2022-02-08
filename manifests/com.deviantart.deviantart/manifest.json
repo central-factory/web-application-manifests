@@ -1,7 +1,7 @@
 {
     "id": "com.deviantart.deviantart",
     "name": "DeviantArt",
-    "description": "A simple, fun & creative way to capture, edit & share photos, videos & messages with friends & family.",
+    "description": "DeviantArt is where art and community thrive. Explore over 350 million pieces of art while connecting to fellow artists and art enthusiasts.",
     "startUrl": "https://www.deviantart.com/",
     "themeColor": "#05CC47",
     "icons": [
