@@ -1,0 +1,37 @@
+{
+    "id": "com.soundcloud.soundcloud",
+    "name": "SoundCloud",
+    "description": "Play Call me eS on SoundCloud and discover followers on SoundCloud | Stream tracks, albums, playlists on desktop and mobile.",
+    "startUrl": "https://www.soundcloud.com/",
+    "themeColor": "#FF3300",
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/soundcloud.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://soundcloud.com",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/soundcloud.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      "music"
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.soundcloud",
+        "name": "SoundCloud"
+      }
+    }
+  }
+  
