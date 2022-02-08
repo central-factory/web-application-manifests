@@ -25,7 +25,8 @@
     }
   ],
   "categories": [
-    "social"
+    "social",
+    "photo"
   ],
   "additionalProperties": {
     "author": {
