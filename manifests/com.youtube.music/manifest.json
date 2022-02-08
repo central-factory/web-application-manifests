@@ -1,0 +1,37 @@
+{
+    "id": "com.youtube.music",
+    "name": "Youtube Music",
+    "description": "With Music Premium listen to music without ads, offline and in the background ",
+    "startUrl": "https://www.youtube.com/musicpremium/",
+    "themeColor": "#FF0000",
+    "categories": [
+      "music"
+    ],
+    "icons": [
+      {
+        "src": "assets/icons/mdi/youtubemusic.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://www.youtube.com/musicpremium/",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/youtubemusic.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.alphabet",
+        "name": "Alphabet"
+      }
+    }
+  }
+  
