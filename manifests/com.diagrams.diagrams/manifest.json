@@ -1,0 +1,39 @@
+{
+    "id": "com.diagrams.diagrams",
+    "name": "diagrams.net",
+    "description": "Security-first diagramming for teams. No login or registration required.",
+    "startUrl": "https://diagrams.net",
+    "themeColor": "#F08705",
+    "categories": [
+        "productivity",
+        "business",
+        "devtools"
+    ],
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/diagramsdotnet.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Portal",
+        "url": "https://diagrams.net",
+        "icons": [
+          {
+            "src": "assets/icons/simple-icons/diagramsdotnet.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.diagrams",
+        "name": "diagrams.net"
+      }
+    }
+  }
+  
