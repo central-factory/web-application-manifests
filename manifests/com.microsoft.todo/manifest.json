@@ -1,7 +1,7 @@
 
 {
     "id": "com.microsoft.todo.live",
-    "name": "To Do Live",
+    "name": "To Do",
     "description": "The Microsoft To Do application allows you to better organize your day to day by helping you manage, prioritize and achieve your goals, in addition to completing your...",
     "startUrl": "https://www.to-do.live.com",
     "themeColor": "#0078d7",
