@@ -1,14 +1,10 @@
 {
-  "id": "net.brandcolors.brandcolors",
+  "id": "com.brandcolors.brandcolors",
   "name": "BrandColors",
   "description": "The biggest collection of official brand color codes around. Curated by @brandcolors and friends.",
   "startUrl": "https://brandcolors.net/",
   "themeColor": "#E91F63",
-  "categories": [
-    "personalization",
-    "utilities",
-    "devtools"
-  ],
+  "categories": ["personalization", "utilities", "devtools"],
   "icons": [
     {
       "src": "assets/icons/mdi/palette.svg",
@@ -31,7 +27,7 @@
   ],
   "additionalProperties": {
     "author": {
-      "id": "net.brandcolors",
+      "id": "com.brandcolors",
       "name": "BrandColors"
     }
   }

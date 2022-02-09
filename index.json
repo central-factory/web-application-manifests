@@ -17,6 +17,7 @@
     "com.bbva.wallet",
     "com.binance.binance",
     "com.booking.booking",
+    "com.brandcolors.brandcolors",
     "com.burgerking.burgerking",
     "com.cdprojekt.gog",
     "com.central-factory.metadrones",
@@ -115,7 +116,6 @@
     "com.youtube.kids",
     "com.youtube.music",
     "com.zalando.shopping",
-    "com.zara.shopping",
-    "net.brandcolors.brandcolors"
+    "com.zara.shopping"
   ]
 }
