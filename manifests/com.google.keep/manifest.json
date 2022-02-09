@@ -22,13 +22,20 @@
           "type": "image/svg+xml"
         }
       ]
+    },
+    {
+      "name": "Create Note",
+      "url": "https://keep.google.com",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/note-plus.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
     }
   ],
-  "categories": [
-    "productivity",
-    "utilities",
-    "business"
-  ],
+  "categories": ["productivity", "utilities", "business"],
   "additionalProperties": {
     "author": {
       "id": "com.alphabet",

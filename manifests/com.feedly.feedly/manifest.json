@@ -4,10 +4,7 @@
   "description": "\n      Your central place to organize, read, and share the information you need to stay ahead of the next big trend in your industry.\n    ",
   "startUrl": "https://feedly.com/",
   "themeColor": "#2bb24c",
-  "categories": [
-    "news",
-    "entertainment"
-  ],
+  "categories": ["news", "entertainment"],
   "icons": [
     {
       "src": "assets/icons/simple-icons/feedly.svg",
@@ -17,11 +14,11 @@
   ],
   "shortcuts": [
     {
-      "name": "Feed",
+      "name": "News Feed",
       "url": "https://feedly.com/i/my/me",
       "icons": [
         {
-          "src": "assets/icons/simple-icons/feedly.svg",
+          "src": "assets/icons/mdi/newspaper.svg",
           "sizes": "512x512",
           "type": "image/svg+xml"
         }

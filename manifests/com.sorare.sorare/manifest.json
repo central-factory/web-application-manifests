@@ -1,0 +1,34 @@
+{
+  "id": "com.sorare.sorare",
+  "name": "Sorare",
+  "description": "Own Your Game",
+  "startUrl": "https://sorare.com",
+  "themeColor": "#0166ff",
+  "icons": [
+    {
+      "src": "assets/icons/mdi/soccer.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Play Sorare",
+      "url": "https://sorare.com",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/soccer.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": ["games", "blockchain"],
+  "additionalProperties": {
+    "author": {
+      "id": "com.sorare",
+      "name": "Sorare"
+    }
+  }
+}

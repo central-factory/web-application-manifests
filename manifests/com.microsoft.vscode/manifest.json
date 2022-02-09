@@ -1,0 +1,45 @@
+{
+  "id": "com.microsoft.vscode",
+  "name": "Visual Studio Code",
+  "description": "Code editing. Redefined. Free. Built on open source. Runs everywhere.",
+  "startUrl": "https://code.visualstudio.com/",
+  "themeColor": "#007ACC",
+  "categories": ["devtools"],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/visualstudiocode.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Code",
+      "url": "vscode:",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/visualstudiocode.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Marketplace",
+      "url": "http://marketplace.visualstudio.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/visualstudiocode.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.microsoft",
+      "name": "Microsoft"
+    }
+  }
+}

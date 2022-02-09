@@ -17,7 +17,7 @@
       "url": "https://calendar.google.com",
       "icons": [
         {
-          "src": "assets/icons/simple-icons/googlecalendar.svg",
+          "src": "assets/icons/mdi/calendar.svg",
           "sizes": "512x512",
           "type": "image/svg+xml"
         }
@@ -35,12 +35,7 @@
       ]
     }
   ],
-  "categories": [
-    "productivity",
-    "utilities",
-    "business",
-    "lifestyle"
-  ],
+  "categories": ["productivity", "utilities", "business", "lifestyle"],
   "additionalProperties": {
     "author": {
       "id": "com.alphabet",

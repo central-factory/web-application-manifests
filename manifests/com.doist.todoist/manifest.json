@@ -13,21 +13,29 @@
   ],
   "shortcuts": [
     {
-      "name": "Portal",
+      "name": "Today",
+      "url": "https://todoist.com/app/today",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/format-list-checks.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Create Task",
       "url": "https://todoist.com/app/",
       "icons": [
         {
-          "src": "assets/icons/simple-icons/todoist.svg",
+          "src": "assets/icons/mdi/checkbox-marked-circle-plus-outline.svg",
           "sizes": "512x512",
           "type": "image/svg+xml"
         }
       ]
     }
   ],
-  "categories": [
-    "productivity",
-    "utilities"
-  ],
+  "categories": ["productivity", "utilities"],
   "additionalProperties": {
     "author": {
       "id": "com.doist",

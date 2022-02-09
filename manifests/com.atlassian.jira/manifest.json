@@ -1,13 +1,10 @@
-
 {
   "id": "com.atlassian.jira",
   "name": "Jira",
   "description": "Powerful project management software for teams of all sizes and locations.",
   "startUrl": "https://jira.atlassian.com/",
   "themeColor": "#0052CC",
-  "categories": [
-    "productivity"
-  ],
+  "categories": ["productivity"],
   "icons": [
     {
       "src": "assets/icons/simple-icons/jira.svg",
@@ -17,11 +14,22 @@
   ],
   "shortcuts": [
     {
-      "name": "Portal",
+      "name": "Board",
       "url": "https://jira.atlassian.com",
       "icons": [
         {
-          "src": "assets/icons/simple-icons/jira.svg",
+          "src": "assets/icons/mdi/format-list-checks.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Create Issue",
+      "url": "https://jira.atlassian.com",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/checkbox-marked-circle-plus-outline.svg",
           "sizes": "512x512",
           "type": "image/svg+xml"
         }

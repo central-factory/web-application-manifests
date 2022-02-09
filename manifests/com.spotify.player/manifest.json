@@ -13,11 +13,11 @@
   ],
   "shortcuts": [
     {
-      "name": "Player",
+      "name": "Play Music",
       "url": "https://open.spotify.com",
       "icons": [
         {
-          "src": "assets/icons/simple-icons/spotify.svg",
+          "src": "assets/icons/mdi/music-circle.svg",
           "sizes": "512x512",
           "type": "image/svg+xml"
         }
@@ -57,11 +57,7 @@
       ]
     }
   ],
-  "categories": [
-    "entertainment",
-    "music",
-    "tv"
-  ],
+  "categories": ["entertainment", "music", "tv"],
   "additionalProperties": {
     "author": {
       "id": "com.spotify",

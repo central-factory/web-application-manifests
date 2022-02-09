@@ -1,12 +1,10 @@
 {
-  "id": "com.just-eat.just-eat",
+  "id": "com.justeat.justeat",
   "name": "Just Eat",
   "description": "Order your favourite takeaway from restaurants all over Spain on the app you love. Freshly cooked from your favourite restaurants directly to your door. Order today. More than 15k restaurants. Exclusive Offers. Pizza, sushi, thai & more. Contactless Delivery.",
   "startUrl": "https://just-eat.es/",
   "themeColor": "#F96101",
-  "categories": [
-    "food"
-  ],
+  "categories": ["food"],
   "icons": [
     {
       "src": "assets/icons/simple-icons/justeat.svg",

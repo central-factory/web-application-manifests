@@ -4,9 +4,7 @@
   "description": "Capture thoughts, ideas, and to-dos and sync them to all your devices · Store and share your notebooks on OneDrive with your free Microsoft account",
   "startUrl": "https://www.onenote.com",
   "themeColor": "#733781",
-  "categories": [
-    "productivity"
-  ],
+  "categories": ["productivity"],
   "icons": [
     {
       "src": "assets/icons/simple-icons/microsoftonenote.svg",
@@ -21,6 +19,17 @@
       "icons": [
         {
           "src": "assets/icons/simple-icons/microsoftonenote.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Create Note",
+      "url": "https://www.onenote.com",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/note-plus.svg",
           "sizes": "512x512",
           "type": "image/svg+xml"
         }

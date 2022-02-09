@@ -1,38 +1,45 @@
-
 {
-    "id": "com.microsoft.todo.live",
-    "name": "To Do",
-    "description": "The Microsoft To Do application allows you to better organize your day to day by helping you manage, prioritize and achieve your goals, in addition to completing your...",
-    "startUrl": "https://www.to-do.live.com",
-    "themeColor": "#0078d7",
-    "categories": [
-      "productivity"
-    ],
-    "icons": [
-      {
-        "src": "assets/icons/mdi/check-bold.svg",
-        "sizes": "512x512",
-        "type": "image/svg+xml"
-      }
-    ],
-    "shortcuts": [
-      {
-        "name": "Portal",
-        "url": "https://www.to-do.live.com",
-        "icons": [
-          {
-            "src": "assets/icons/mdi/check-bold.svg",
-            "sizes": "512x512",
-            "type": "image/svg+xml"
-          }
-        ]
-      }
-    ],
-    "additionalProperties": {
-      "author": {
-        "id": "com.microsoft",
-        "name": "Microsoft"
-      }
+  "id": "com.microsoft.todo",
+  "name": "To Do",
+  "description": "The Microsoft To Do application allows you to better organize your day to day by helping you manage, prioritize and achieve your goals, in addition to completing your...",
+  "startUrl": "https://www.to-do.live.com",
+  "themeColor": "#0078d7",
+  "categories": ["productivity"],
+  "icons": [
+    {
+      "src": "assets/icons/mdi/check-bold.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://www.to-do.live.com",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/check-bold.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Create Task",
+      "url": "https://www.to-do.live.com",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/checkbox-marked-circle-plus-outline.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.microsoft",
+      "name": "Microsoft"
     }
   }
-  
+}

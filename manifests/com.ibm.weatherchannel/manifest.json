@@ -1,37 +1,34 @@
 {
-    "id": "com.ibm.weather",
-    "name": "The Weather Channel",
-    "description": "The Weather Channel and weather.com provide a national and local weather forecast for cities, as well as weather radar, report and hurricane coverage.",
-    "startUrl": "https://weather.com/",
-    "themeColor": "#022d50",
-    "icons": [
-      {
-        "src": "assets/icons/mdi/weather-cloudy.svg",
-        "sizes": "512x512",
-        "type": "image/svg+xml"
-      }
-    ],
-    "shortcuts": [
-      {
-        "name": "Portal",
-        "url": "https://weather.com",
-        "icons": [
-          {
-            "src": "assets/icons/mdi/weather-cloudy.svg",
-            "sizes": "512x512",
-            "type": "image/svg+xml"
-          }
-        ]
-      }
-    ],
-    "categories": [
-      "travel",
-      "news"
-    ],
-    "additionalProperties": {
-      "author": {
-        "id": "com.ibm",
-        "name": "IBM"
-      }
+  "id": "com.ibm.weather",
+  "name": "The Weather Channel",
+  "description": "The Weather Channel and weather.com provide a national and local weather forecast for cities, as well as weather radar, report and hurricane coverage.",
+  "startUrl": "https://weather.com/",
+  "themeColor": "#022d50",
+  "icons": [
+    {
+      "src": "assets/icons/mdi/weather-sunny.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Today's Forecast",
+      "url": "https://weather.com",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/weather-sunny.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": ["travel", "news"],
+  "additionalProperties": {
+    "author": {
+      "id": "com.ibm",
+      "name": "IBM"
     }
   }
+}
