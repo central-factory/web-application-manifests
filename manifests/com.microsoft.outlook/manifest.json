@@ -5,7 +5,9 @@
     "startUrl": "https://www.outlook.live.com",
     "themeColor": "#0078D4",
     "categories": [
-      "productivity"
+      "productivity",
+      "business",
+      "lifestyle"
     ],
     "icons": [
       {
@@ -34,4 +36,3 @@
       }
     }
   }
-  

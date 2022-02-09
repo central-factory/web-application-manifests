@@ -1,6 +1,6 @@
 {
   "id": "com.microsoft.azure",
-  "name": "Azure",
+  "name": "Azure DevOps",
   "description": "Plan smarter, collaborate better, and ship faster with Azure DevOps Services, formerly known as Visual Studio Team Services. Get agile tools, CI/CD...",
   "startUrl": "https://dev.azure.com",
   "themeColor": "#0074D0",

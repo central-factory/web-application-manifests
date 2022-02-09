@@ -1,0 +1,37 @@
+{
+  "id": "com.microsoft.powerpoint",
+  "name": "PowerPoint",
+  "description": "Microsoft PowerPoint allows you to create elegant presentations or complex sales presentations to get your message across. ",
+  "startUrl": "https://www.office.com/launch/powerpoint",
+  "themeColor": "#B7472A",
+  "categories": [
+    "productivity",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/microsoftpowerpoint.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://www.office.com/launch/powerpoint",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/microsoftpowerpoint.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.microsoft",
+      "name": "Microsoft"
+    }
+  }
+}

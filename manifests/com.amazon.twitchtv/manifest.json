@@ -5,7 +5,8 @@
   "startUrl": "https://twitch.tv/",
   "themeColor": "#9146ff",
   "categories": [
-    "entertainment"
+    "entertainment",
+    "tv"
   ],
   "icons": [
     {

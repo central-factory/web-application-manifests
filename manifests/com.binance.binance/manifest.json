@@ -1,0 +1,38 @@
+{
+  "id": "com.binance.binance",
+  "name": "Binance",
+  "description": "Cryptocurrency Exchange, Binance: We operate the largest Bitcoin and Cryptocurrency exchange in the world by volume.",
+  "startUrl": "https://www.binance.com",
+  "themeColor": "#F0B90B",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/binance.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://www.binance.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/binance.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "finance",
+    "shopping",
+    "business"
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.binance",
+      "name": "Binance"
+    }
+  }
+}

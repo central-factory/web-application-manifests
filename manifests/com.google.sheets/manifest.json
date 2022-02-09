@@ -1,0 +1,38 @@
+{
+  "id": "com.google.sheets",
+  "name": "Google Sheets",
+  "description": "Create and share your work online and access your documents from anywhere. Manage documents, spreadsheets, presentations, surveys...",
+  "startUrl": "https://sheets.google.com",
+  "themeColor": "#34A853",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/googlesheets.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": [
+    "productivity",
+    "utilities",
+    "business"
+  ],
+  "shortcuts": [
+    {
+      "name": "Search",
+      "url": "https://sheets.google.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/googlesheets.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.alphabet",
+      "name": "Alphabet"
+    }
+  }
+}

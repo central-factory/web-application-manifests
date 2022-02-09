@@ -1,0 +1,37 @@
+{
+  "id": "com.filmin.filmin",
+  "name": "Filmin",
+  "description": "Filmin, movies, series and shorts online in high definition. ",
+  "startUrl": "https://www.filmin.com/",
+  "themeColor": "#5effc3",
+  "categories": [
+    "entertainment",
+    "tv"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/mdi/alpha-f-box.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://www.filmin.com/",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/alpha-f-box.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.filmin",
+      "name": "Filmin"
+    }
+  }
+}

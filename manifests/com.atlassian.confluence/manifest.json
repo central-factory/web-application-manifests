@@ -1,0 +1,37 @@
+
+{
+  "id": "com.atlassian.confluence",
+  "name": "Confluence",
+  "description": " Confluence es un espacio de trabajo para equipos donde se alían el conocimiento y la colaboración. Una solución confianza para documentación",
+  "startUrl": "https://confluence.atlassian.com/",
+  "themeColor": "#172B4D",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/confluence.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://confluence.atlassian.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/confluence.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.atlassian",
+      "name": "Atlassian"
+    }
+  }
+}

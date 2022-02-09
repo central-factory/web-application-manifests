@@ -1,0 +1,34 @@
+{
+  "id": "com.aidungeon.aidungeon",
+  "name": "AI Dungeon",
+  "description": "Play and create AI-generated adventures with infinite possibilities. Not sure where to start?",
+  "startUrl": "https://play.aidungeon.io/",
+  "themeColor": "#1f7a7b",
+  "categories": ["games"],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/aidungeon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Play",
+      "url": "https://play.aidungeon.io/",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/aidungeon.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.aidungeon",
+      "name": "AI Dungeon"
+    }
+  }
+}

@@ -3,10 +3,10 @@
     "name": "Blizzard",
     "description": "Creators of the Warcraft, Diablo, StarCraft, and Overwatch series, Blizzard Entertainment is an industry-leading developer responsible for the most epic...",
     "startUrl": "https://www.blizzard.com",
-    "themeColor": "#009be4",
+    "themeColor": "#148EFF",
     "icons": [
       {
-        "src": "assets/icons/mdi/alpha-b-circle.svg",
+        "src": "assets/icons/simple-icons/battledotnet.svg",
         "sizes": "512x512",
         "type": "image/svg+xml"
       }
@@ -17,7 +17,7 @@
         "url": "https://www.blizzard.com",
         "icons": [
           {
-            "src": "assets/icons/mdi/alpha-b-circle.svg",
+            "src": "assets/icons/simple-icons/battledotnet.svg",
             "sizes": "512x512",
             "type": "image/svg+xml"
           }
@@ -34,4 +34,3 @@
       }
     }
   }
-  

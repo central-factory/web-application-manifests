@@ -1,6 +1,6 @@
 {
     "id": "com.amazon.audible",
-    "name": "Amazon Audible",
+    "name": "Audible",
     "description": "Listening makes you free. Thousands of audiobooks, original podcasts and exclusive content. Listen where you want, when you want.",
     "startUrl": "https://www.audible.es/",
     "themeColor": "#F8991C",
@@ -35,4 +35,3 @@
       }
     }
   }
-  

@@ -69,7 +69,10 @@
     }
   ],
   "categories": [
-    "entertainment"
+    "entertainment",
+    "news",
+    "tv",
+    "education"
   ],
   "additionalProperties": {
     "author": {

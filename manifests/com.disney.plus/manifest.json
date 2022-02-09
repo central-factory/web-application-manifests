@@ -1,0 +1,37 @@
+{
+  "id": "com.disney.plus",
+  "name": "Disney+",
+  "description": "Disney+ is the new platform where you can watch movies, series and much more content from brands like Pixar, Star Wars, Marvel or Star, where you'll find",
+  "startUrl": "https://www.disneyplus.com/",
+  "themeColor": "#13161f",
+  "categories": [
+    "entertainment",
+    "tv"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/mdi/alpha-d-box.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://www.disneyplus.com/",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/alpha-d-box.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.disney",
+      "name": "Disney"
+    }
+  }
+}

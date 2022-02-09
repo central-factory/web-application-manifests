@@ -1,0 +1,34 @@
+{
+  "id": "com.alibaba.aliexpress",
+  "name": "AliExpress",
+  "description": "Competitive Prices On More Than 100 Million Items. Check Out All Deals on AIlExpress. Online Shopping at AIlExpress for the best cell phones, electronics, toys & more products. Multiple Payment Options. 24/7 Help Center. Free Shipping Available. Coupons. Electronics.",
+  "startUrl": "https://aliexpress.com/",
+  "themeColor": "#FF4747",
+  "categories": ["shopping"],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/aliexpress.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://aliexpress.com/",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/aliexpress.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.alibaba",
+      "name": "Alibaba Group"
+    }
+  }
+}
