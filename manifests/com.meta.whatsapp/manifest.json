@@ -1,7 +1,7 @@
 {
   "id": "com.meta.whatsapp",
   "name": "WhatsApp",
-  "description": "Messaging Application",
+  "description": "Quickly send and receive WhatsApp messages right from your computer.",
   "startUrl": "https://web.whatsapp.com",
   "themeColor": "#128c7e",
   "icons": [
@@ -24,9 +24,7 @@
       ]
     }
   ],
-  "categories": [
-    "social"
-  ],
+  "categories": ["social"],
   "additionalProperties": {
     "author": {
       "id": "com.meta",
