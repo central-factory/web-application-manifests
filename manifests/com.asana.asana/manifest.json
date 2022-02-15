@@ -1,0 +1,34 @@
+{
+  "id": "com.asana.asana",
+  "name": "Asana",
+  "description": "From the small stuff to the big picture, Asana organizes work so teams know what to do, why it matters, and how to get it done. Get Started. Contact sales.",
+  "startUrl": "https://asana.com/",
+  "themeColor": "#e36566",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/asana.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://asana.com/",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/asana.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "additionalProperties": {
+    "author": {
+      "id": "com.asana",
+      "name": "Asana, Inc"
+    }
+  }
+}

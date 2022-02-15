@@ -1,0 +1,38 @@
+{
+  "id": "com.docusign.docusign",
+  "name": "DocuSign",
+  "description": "Streamline your business operations with the DocuSign digital signature. Sign documents from any place and device with all the legal guarantees.",
+  "startUrl": "https://docusign.com",
+  "themeColor": "#FFCC22",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/docusign.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": [
+    "productivity",
+    "utilities",
+    "business"
+  ],
+  "shortcuts": [
+    {
+      "name": "DocuSign",
+      "url": "https://docusign.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/docusign.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.docusign",
+      "name": "DocuSign"
+    }
+  }
+}

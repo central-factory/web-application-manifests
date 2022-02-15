@@ -1,0 +1,36 @@
+{
+  "id": "com.dinosaurgame.dinosaurgame",
+  "name": "Dinosaur Game",
+  "description": "The objective of the Lonely T-Rex in the Chrome Dino is to keep running while overcoming the obstacles in the desert landscape. ",
+  "startUrl": "https://dinosaurgame.net/",
+  "themeColor": "#535353",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/mdi/google-downasaur.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://discord.com/",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/google-downasaur.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.dinosaurgame",
+      "name": "Dinosaur Game"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "com.dropbox.dropbox",
+  "name": "Dropbox",
+  "description": "Keep your files, wherever you are. Synchronize everything with your other devices. Collaborate with friends, family, and coworkers from any device, anywhere.",
+  "startUrl": "https://dropbox.com",
+  "themeColor": "#0061FF",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/dropbox.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": [
+    "productivity",
+    "utilities",
+    "business"
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://dropbox.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/dropbox.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.dropbox",
+      "name": "Dropbox"
+    }
+  }
+}

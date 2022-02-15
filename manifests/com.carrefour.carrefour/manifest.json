@@ -1,0 +1,34 @@
+{
+  "id": "com.carrefour.carrefour",
+  "name": "Carrefour",
+  "description": "Buy with the best offers and discover the latest news in Electronics, Fashion, Computers, Telephony and the best prices in Food...",
+  "startUrl": "https://carrefour.es",
+  "themeColor": "#004E9F",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/carrefour.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Store",
+      "url": "https://carrefour.es",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/carrefour.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": ["food", "shopping"],
+  "additionalProperties": {
+    "author": {
+      "id": "com.carrefour",
+      "name": "Carrefour"
+    }
+  }
+}

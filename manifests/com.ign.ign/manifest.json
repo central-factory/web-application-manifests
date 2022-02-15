@@ -1,0 +1,36 @@
+{
+  "id": "com.ign.ign",
+  "name": "IGN",
+  "description": "The Global #1 Media Brand for Games, Entertainment and Fan Culture.",
+  "startUrl": "https://world.ign.com/",
+  "themeColor": "#b51311",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/mdi/gamepad.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Games Maps",
+      "url": "https://www.ign.com/maps",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/map.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.ign",
+      "name": "IGN"
+    }
+  }
+}

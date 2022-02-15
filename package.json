@@ -5,7 +5,7 @@
   "main": "scripts/build-index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "npm run build && http-server --cors .",
+    "dev": "npm run build && http-server --cors --host 0.0.0.0 .",
     "build": "node scripts/build-index.js"
   },
   "repository": {

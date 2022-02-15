@@ -1,0 +1,45 @@
+{
+  "id": "com.canva.canva",
+  "name": "Canva",
+  "description": "Just Drag And Drop To Design With Custom Templates, Thousands Of Stock Videos, And More. One Design Tool, 200,000 Photos, 57,000 Graphics, 13,000 Videos, Endless Content. 200K+ Companies On Board. 100% Happiness Guarantee. Simple To Use Interface.",
+  "startUrl": "https://canva.com",
+  "themeColor": "#00C4CC",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/canva.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Canva",
+      "url": "https://keep.google.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/canva.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Create Note",
+      "url": "https://keep.google.com",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/note-plus.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": ["productivity", "utilities", "business", "photo"],
+  "additionalProperties": {
+    "author": {
+      "id": "com.canva",
+      "name": "Canva"
+    }
+  }
+}

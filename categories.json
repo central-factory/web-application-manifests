@@ -1,0 +1,42 @@
+[
+  {
+    "label": "blockchain",
+    "icon": "assets/icons/mdi/link-lock.svg"
+  },
+  {
+    "label": "lifestyle",
+    "icon": "assets/icons/mdi/account-supervisor-circle.svg"
+  },
+  {
+    "label": "productivity",
+    "icon": "assets/icons/mdi/order-bool-ascending-variant.svg"
+  },
+  { "label": "books", "icon": "assets/icons/mdi/book.svg" },
+  { "label": "business", "icon": "assets/icons/mdi/briefcase.svg" },
+  { "label": "education", "icon": "assets/icons/mdi/school.svg" },
+  { "label": "entertainment", "icon": "assets/icons/mdi/play-box.svg" },
+  { "label": "tv", "icon": "assets/icons/mdi/television.svg" },
+  { "label": "finance", "icon": "assets/icons/mdi/finance.svg" },
+  { "label": "fitness", "icon": "assets/icons/mdi/dumbbell.svg" },
+  { "label": "food", "icon": "assets/icons/mdi/food-fork-drink.svg" },
+  { "label": "games", "icon": "assets/icons/mdi/google-controller.svg" },
+  { "label": "government", "icon": "assets/icons/mdi/home-city.svg" },
+  { "label": "health", "icon": "assets/icons/mdi/hospital-box.svg" },
+  { "label": "kids", "icon": "assets/icons/mdi/account-child.svg" },
+  { "label": "magazines", "icon": "assets/icons/mdi/newspaper-variant.svg" },
+  { "label": "medical", "icon": "assets/icons/mdi/medical-bag.svg" },
+  { "label": "music", "icon": "assets/icons/mdi/music-circle.svg" },
+  { "label": "navigation", "icon": "assets/icons/mdi/navigation.svg" },
+  { "label": "news", "icon": "assets/icons/mdi/newspaper-variant.svg" },
+  { "label": "personalization", "icon": "assets/icons/mdi/palette.svg" },
+  { "label": "photo", "icon": "assets/icons/mdi/image.svg" },
+  { "label": "politics", "icon": "assets/icons/mdi/account-tie-voice.svg" },
+  { "label": "security", "icon": "assets/icons/mdi/shield-account.svg" },
+  { "label": "shopping", "icon": "assets/icons/mdi/basket.svg" },
+  { "label": "social", "icon": "assets/icons/mdi/account-group.svg" },
+  { "label": "sports", "icon": "assets/icons/mdi/basketball.svg" },
+  { "label": "travel", "icon": "assets/icons/mdi/train-car.svg" },
+  { "label": "utilities", "icon": "assets/icons/mdi/hammer-screwdriver.svg" },
+  { "label": "weather", "icon": "assets/icons/mdi/sun-wireless.svg" },
+  { "label": "devtools", "icon": "assets/icons/mdi/code-tags.svg" }
+]

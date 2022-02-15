@@ -1,0 +1,38 @@
+{
+  "id": "com.box.box",
+  "name": "Box",
+  "description": "One platform for secure content management, workflow, and collaboration. See why 69% of the Fortune 500 rely on Box to meet the demands of the digital age. Unlimited e-signatures.",
+  "startUrl": "https://box.com",
+  "themeColor": "#0061D5",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/box.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": [
+    "productivity",
+    "utilities",
+    "business"
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://box.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/box.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.box",
+      "name": "Box"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "com.microsoft.bing",
+  "name": "Microsoft Bing",
+  "description": "Bing helps you turn information into action by making the transition from search to action faster and easier.",
+  "startUrl": "https://www.bing.com/",
+  "themeColor": "#258FFA",
+  "categories": [
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/microsoftbing.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Search",
+      "url": "https://www.bing.com/",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/magnify.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Images",
+      "url": "https://www.bing.com/?scope=images",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/image-search.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.microsoft",
+      "name": "Microsoft"
+    }
+  }
+}

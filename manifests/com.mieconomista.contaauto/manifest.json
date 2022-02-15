@@ -1,0 +1,45 @@
+{
+  "id": "com.mieconomista.contaauto",
+  "name": "ContaAuto",
+  "description": "Post your sales invoices and expenses. Control, plan and present your taxes. Control of collections and payments from our program.",
+  "startUrl": "https://www.contaauto.eu/",
+  "themeColor": "#3e8dc5",
+  "icons": [
+    {
+      "src": "assets/icons/mdi/receipt.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Clients",
+      "url": "https://www.contaauto.eu/terceros",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/account-group.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Create Invoice",
+      "url": "https://www.contaauto.eu/facturas",
+      "icons": [
+        {
+          "src": "assets/icons/mdi/receipt.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": ["finance", "business"],
+  "additionalProperties": {
+    "author": {
+      "id": "com.mieconomista",
+      "name": "Mi Economista"
+    }
+  }
+}

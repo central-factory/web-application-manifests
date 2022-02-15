@@ -1,0 +1,37 @@
+{
+  "id": "com.crunchyroll.crunchyroll",
+  "name": "Crunchyroll",
+  "description": "Enjoy anime for free or subscribe to Premium to watch series without ads. Enjoy the anime catalog with more than 1,000 series with subtitles.",
+  "startUrl": "https://www.crunchyroll.com/",
+  "themeColor": "#F47521",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/crunchyroll.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Watch Anime",
+      "url": "https://crunchyroll.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/crunchyroll.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "entertainment",
+    "tv"
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.crunchyroll",
+      "name": "Microsoft"
+    }
+  }
+}

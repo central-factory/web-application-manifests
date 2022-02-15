@@ -1,0 +1,38 @@
+{
+  "id": "com.digitalocean.digitalocean",
+  "name": "Digital Ocean",
+  "description": "Get started with fast, secure, and reliable cloud infrastructure solutions. Deploy faster & scale easier with an application server that saves your team time & money. Manage W/ Teams.",
+  "startUrl": "https://digitalocean.com",
+  "themeColor": "#0080FF",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/digitalocean.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://digitalocean.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/digitalocean.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "productivity",
+    "utilities",
+    "devtools"
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.digitalocean",
+      "name": "Digital Ocean"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+
+{
+  "id": "com.crunchbase.crunchbase",
+  "name": "Crunchbase",
+  "description": "Crunchbase is the leading destination for company insights from early-stage startups to the Fortune 1000. Get insights into your competition.",
+  "startUrl": "https://crunchbase.com/",
+  "themeColor": "#0288D1",
+  "categories": ["news", "entertainment", "business"],
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/crunchbase.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Crunchbase",
+      "url": "https://crunchbase.com/",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/crunchbase.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.crunchbase",
+      "name": "Crunchbase"
+    }
+  }
+}

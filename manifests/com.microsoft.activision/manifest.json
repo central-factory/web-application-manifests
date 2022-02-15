@@ -1,0 +1,36 @@
+{
+  "id": "com.microsoft.activision",
+  "name": "Activision",
+  "description": "View Activision's game portfolio, including games from the Call of Duty® franchise, Tony Hawk's™ Pro Skater™ series, Crash Bandicoot™ and more.",
+  "startUrl": "https://www.activision.com/",
+  "themeColor": "#000000",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/activision.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://www.activision.com/",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/activision.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "games"
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.microsoft",
+      "name": "Microsoft"
+    }
+  }
+}

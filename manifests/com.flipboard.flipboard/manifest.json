@@ -1,0 +1,34 @@
+{
+    "id": "com.flipboard.flipboard",
+    "name": "Flipboard",
+    "description": "Flipboard was founded as a space where you can find the most important stories of the day, bringing your news sources together in one place.",
+    "startUrl": "https://flipboard.com/",
+    "themeColor": "#E12828",
+    "categories": ["news", "entertainment"],
+    "icons": [
+      {
+        "src": "assets/icons/simple-icons/flipboard.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "News Feed",
+        "url": "https://flipboard.com/",
+        "icons": [
+          {
+            "src": "assets/icons/mdi/flipboard.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+          }
+        ]
+      }
+    ],
+    "additionalProperties": {
+      "author": {
+        "id": "com.flipboard",
+        "name": "Flipboard"
+      }
+    }
+  }

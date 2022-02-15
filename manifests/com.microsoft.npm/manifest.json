@@ -1,0 +1,38 @@
+{
+  "id": "com.microsoft.npm",
+  "name": "NPM",
+  "description": "Search for packages on npm",
+  "startUrl": "https://npmjs.com",
+  "themeColor": "#CB3837",
+  "icons": [
+    {
+      "src": "assets/icons/simple-icons/npm.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portal",
+      "url": "https://npmjs.com",
+      "icons": [
+        {
+          "src": "assets/icons/simple-icons/npm.svg",
+          "sizes": "512x512",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "productivity",
+    "utilities",
+    "devtools"
+  ],
+  "additionalProperties": {
+    "author": {
+      "id": "com.microsoft",
+      "name": "Microsoft"
+    }
+  }
+}

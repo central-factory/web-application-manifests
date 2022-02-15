@@ -1,7 +1,7 @@
 {
-  "id": "com.spotify.player",
+  "id": "com.spotify.music",
   "name": "Spotify",
-  "description": "\n      Spotify is all the music you'll ever need.\n\n      Stream free albums and hits, find a song, discover music, and download songs and podcasts with the Spotify free streaming and music player app.\n\n      Free streaming, music search and hits library – Spotify is all that and much more.\n\n      Play songs, sync music, discover music and free albums with Spotify, your go-to music downloader.\n    ",
+  "description": "Spotify is all the music you'll ever need. Stream free albums and hits, find a song, discover music, and download songs and podcasts with the Spotify free streaming and music player app.\n\n      Free streaming, music search and hits library – Spotify is all that and much more.\n\n      Play songs, sync music, discover music and free albums with Spotify, your go-to music downloader.\n    ",
   "startUrl": "https://open.spotify.com",
   "themeColor": "#1db954",
   "icons": [
